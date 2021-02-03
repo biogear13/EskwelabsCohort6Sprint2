@@ -1,0 +1,513 @@
+track_id,name,duration_ms,artist_id,artist_name,num_artists,album_id,album_name
+2pAFgfaNVioQGhC0jhtcsG,Ipagpatawad Mo,239333,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5jzfPxlD5UD4Aw3cEnelcC,Tuloy Pa Rin
+33pHgWjuAXvmE6Z9b51avt,Bakit Ba Ganyan,312293,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5jzfPxlD5UD4Aw3cEnelcC,Tuloy Pa Rin
+3O7vNSKiSa5uWpaxjC4712,Pikit,391080,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5jzfPxlD5UD4Aw3cEnelcC,Tuloy Pa Rin
+2PTQBDNpLnjix9Dsa33d8l,Tuloy Pa Rin,236453,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5jzfPxlD5UD4Aw3cEnelcC,Tuloy Pa Rin
+23kb0nomnO71oLqw7Okj3T,Magkasuyo Buong Gabi,235226,"['3pTaNQJ7TAU4yL7KEZp5sF', '5xJfSowQoxaxY4DCVLTfr5']","['Nyoy Volante', 'Sabrina']",2,5jzfPxlD5UD4Aw3cEnelcC,Tuloy Pa Rin
+5iiywmGbNU62D0QAKN9tdu,Nandito Ako,270586,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5jzfPxlD5UD4Aw3cEnelcC,Tuloy Pa Rin
+55KhQcERGBQbDb01bWMnJN,Sa Isip Ko,215240,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5jzfPxlD5UD4Aw3cEnelcC,Tuloy Pa Rin
+3VDmXFIt9fxymAe1WPksD5,Kamakailan Lang,317293,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5jzfPxlD5UD4Aw3cEnelcC,Tuloy Pa Rin
+7czG9HV8a9oTjzoXqfos8Q,Sana Dalawa Ang Puso Ko,287546,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5jzfPxlD5UD4Aw3cEnelcC,Tuloy Pa Rin
+5U2YOPnIrggKoelaNJVLkj,Miss Kita,295626,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5jzfPxlD5UD4Aw3cEnelcC,Tuloy Pa Rin
+38yZBKFHK1OgXg7VXu7olm,Basta't Kasama Kita,255040,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5jzfPxlD5UD4Aw3cEnelcC,Tuloy Pa Rin
+7JIGvuVUQEzaWdDQglFP0S,Bukas Na Lang Kita Mamahalin,254986,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5jzfPxlD5UD4Aw3cEnelcC,Tuloy Pa Rin
+67ZqWdi9kwy4HYu9eZxUL2,Ipagpatawad Mo - Instrumental,238720,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4oif6qMFEOF3E6uf0bvDOV,Tuloy Pa Rin (Minus One Versions)
+4ZMDclBXG6YxikZnJb4FLI,Bakit Ba Ganyan - Instrumental,312520,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4oif6qMFEOF3E6uf0bvDOV,Tuloy Pa Rin (Minus One Versions)
+0Wno1Q4pJxHHp0rzIeRS0F,Pikit - Instrumental,392880,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4oif6qMFEOF3E6uf0bvDOV,Tuloy Pa Rin (Minus One Versions)
+4zDoXmzC2qDpb3TVFTnpYJ,Tuloy Pa Rin - Instrumental,236333,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4oif6qMFEOF3E6uf0bvDOV,Tuloy Pa Rin (Minus One Versions)
+7kgfVTeVMwm4jveNR3PDde,Magkasuyo Buong Gabi - Instrumental,237053,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4oif6qMFEOF3E6uf0bvDOV,Tuloy Pa Rin (Minus One Versions)
+1wPUfVXrpVjPa8b91KwLAC,Nandito Ako - Instrumental,269586,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4oif6qMFEOF3E6uf0bvDOV,Tuloy Pa Rin (Minus One Versions)
+5Keg4HiBjG3LZBtwkxUOed,Sa Isip Ko - Instrumental,215213,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4oif6qMFEOF3E6uf0bvDOV,Tuloy Pa Rin (Minus One Versions)
+0fKIYcJD3mYvgAIYZrVn8h,Kamakailan Lang - Instrumental,316426,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4oif6qMFEOF3E6uf0bvDOV,Tuloy Pa Rin (Minus One Versions)
+7dOUDPsOUgd7992K5o6PWj,Sana Dalawa Ang Puso Ko - Instrumental,287786,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4oif6qMFEOF3E6uf0bvDOV,Tuloy Pa Rin (Minus One Versions)
+5otfMfCkxtpG9JKeuINH5h,Miss Kita - Instrumental,298786,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4oif6qMFEOF3E6uf0bvDOV,Tuloy Pa Rin (Minus One Versions)
+3TaIjVcPAcByVBZlqLevCJ,Basta't Kasama Kita - Instrumental,256653,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4oif6qMFEOF3E6uf0bvDOV,Tuloy Pa Rin (Minus One Versions)
+2x7DmZVp2jmh4GaHtWX4VL,Bukas Na Lang Kita Mamahalin - Instrumental,254813,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4oif6qMFEOF3E6uf0bvDOV,Tuloy Pa Rin (Minus One Versions)
+079YDRVV6NaioJUkWD1YWG,Try,224240,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4aW4RCeWwmde6JSVjDUgaD,In You (International Version)
+3l2Wyag6NGCud0v9U9knzI,Time Machine,265293,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4aW4RCeWwmde6JSVjDUgaD,In You (International Version)
+5J06HsKAN81PNBWZwZgUQY,Someday,236960,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4aW4RCeWwmde6JSVjDUgaD,In You (International Version)
+4M6YrTyOE1PWLIx1bqVcaA,In You,292800,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4aW4RCeWwmde6JSVjDUgaD,In You (International Version)
+17Af5eAqoLqnDBdTe98kP7,So Hard to Let Go,279080,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4aW4RCeWwmde6JSVjDUgaD,In You (International Version)
+0Vb4bx3WLXa047jchCForj,Forever,277426,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4aW4RCeWwmde6JSVjDUgaD,In You (International Version)
+2WTu0omgDUeO5pBismnvlb,Dude,270666,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4aW4RCeWwmde6JSVjDUgaD,In You (International Version)
+0nzRT8xrPJNSwxsi3tYVMq,Walang Hanggan,274986,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4aW4RCeWwmde6JSVjDUgaD,In You (International Version)
+7e3sUBFnAqGER5GTn0LrJx,Tuloy Tuloy Pa Rin,265720,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4aW4RCeWwmde6JSVjDUgaD,In You (International Version)
+2Tb7CIZYfFjA1KbxKUUTuF,One Look,381400,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4aW4RCeWwmde6JSVjDUgaD,In You (International Version)
+42pN2SjDx0iCDLvI115u8e,Ha?,289173,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,1maIgsJ7htTqCDrhe8aucE,Now Hear This
+3nI4ej3PIobYrjeTvufKDE,Nandito Lang (Hanggang Kailan),241560,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,1maIgsJ7htTqCDrhe8aucE,Now Hear This
+68qOOLUg9yKjwI6LlBMXbV,Kundiman,220360,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,1maIgsJ7htTqCDrhe8aucE,Now Hear This
+2J0Ovh75YIhRGHHTLapTJJ,You Left Me,243480,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,1maIgsJ7htTqCDrhe8aucE,Now Hear This
+6XazyhArhUJqpYxhuhQJvN,Mahal na mahal,215520,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,1maIgsJ7htTqCDrhe8aucE,Now Hear This
+4K72z15Bbt6153FyQYOpH0,Without You,299493,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,1maIgsJ7htTqCDrhe8aucE,Now Hear This
+5QFoMfKZzE7ALV2IOugoCs,Ayoko Na,274826,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,1maIgsJ7htTqCDrhe8aucE,Now Hear This
+4urR4TMtkPIY1qgbDs91EQ,Maghihintay,252813,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,1maIgsJ7htTqCDrhe8aucE,Now Hear This
+64GmqrwsKvxBpUFTxgMIMl,Sobra Sobra,295360,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,1maIgsJ7htTqCDrhe8aucE,Now Hear This
+3CkKSV0BzTV0fUkCIVaArq,Baby Stay,216013,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,1maIgsJ7htTqCDrhe8aucE,Now Hear This
+3MYfcVRTLqo7t3ra4DqFRn,Ama Namin,113640,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,1maIgsJ7htTqCDrhe8aucE,Now Hear This
+7qUHGajuvmhnCddQjuNK6N,Because,263653,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2A48roBpFpFjatWtksmsQE,Heartstrings
+7nsiWbURKfKq1IVtS3b2Yy,Ain't Nothin' Gonna Keep Me From You,288186,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2A48roBpFpFjatWtksmsQE,Heartstrings
+3fctzxwfAkILwVfyxAViAI,You're Not Mine,187293,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2A48roBpFpFjatWtksmsQE,Heartstrings
+3KbqbLxwSwFNV0ZTnzAeM9,(They Long To Be) Close To You,184200,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2A48roBpFpFjatWtksmsQE,Heartstrings
+7aLUT8YPqXMZl1JUJh2ffv,First of May,173253,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2A48roBpFpFjatWtksmsQE,Heartstrings
+2smAMdY3pGZPVw0aWAfEzD,I Will,163400,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2A48roBpFpFjatWtksmsQE,Heartstrings
+62ef7BBjl7eRL2eUwZJP9i,No More Lonely Nights,220986,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2A48roBpFpFjatWtksmsQE,Heartstrings
+4UbeLhCrFKH3Krh0o4sH8W,What's Forever For,228800,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2A48roBpFpFjatWtksmsQE,Heartstrings
+6bwkFs7t6ExPs5a2ER2L3i,Make You Happy,248013,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2A48roBpFpFjatWtksmsQE,Heartstrings
+5yXbkIQZOiFp0k4STiYv9x,More Than You'll Ever Know,202053,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2A48roBpFpFjatWtksmsQE,Heartstrings
+1vjdKdp3P8QKfbrb0eUljJ,The One You Love,276893,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2A48roBpFpFjatWtksmsQE,Heartstrings
+4y8KJSy4R3dIwVWHHMt1lf,Dreaming of You,246573,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2A48roBpFpFjatWtksmsQE,Heartstrings
+266fCHji9DlHmj4MEH24Xg,Sasayaw Ako,279933,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4EQ7a4ztLVN5OUgxJJVIxY,Nyoy Volante
+2GAsZsm7fNhBy0Q7aYTXuQ,What Is This I'm Feeling For You,238973,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4EQ7a4ztLVN5OUgxJJVIxY,Nyoy Volante
+4hTnrPQ0EsUed8vXq4tkan,In Love Ako Sa 'Yo,220866,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4EQ7a4ztLVN5OUgxJJVIxY,Nyoy Volante
+2WAwxaI7lyIfy7eS1lus3Y,Be My Lady,233640,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4EQ7a4ztLVN5OUgxJJVIxY,Nyoy Volante
+3RYkG7WmnRK6HSejhCo7jw,Ikaw Lang Para Sa Akin,259746,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4EQ7a4ztLVN5OUgxJJVIxY,Nyoy Volante
+0PhKUUh0XzAHev6opemDtH,'Di Na Mapigilan,263186,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4EQ7a4ztLVN5OUgxJJVIxY,Nyoy Volante
+4wt6antGdiSjTZWoyLVibi,Sweetest Sugar,225120,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4EQ7a4ztLVN5OUgxJJVIxY,Nyoy Volante
+4KJVryttL1duMPn0gqWVM7,Tunay Na Tunay,294906,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4EQ7a4ztLVN5OUgxJJVIxY,Nyoy Volante
+58bROXWH764oojk4JBuXTh,You're My You,276853,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4EQ7a4ztLVN5OUgxJJVIxY,Nyoy Volante
+1LsiUfQrvGHewEnzyipf6j,Love At First Sight,218720,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4EQ7a4ztLVN5OUgxJJVIxY,Nyoy Volante
+2eBPqjjEk3OXdObmcICE2l,May Aasahan Ba,267506,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4EQ7a4ztLVN5OUgxJJVIxY,Nyoy Volante
+6gsF0KXACH5HK8QvtRcaMn,Huling Sayaw,274812,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,6Mo7cq7JRqSBZVDqXvwSel,Huling Sayaw
+6SAdNS3NzG8PGHnRAIT6sg,I Wanna Kiss You,164400,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,53Vzv0bR02zAV9S2bsCyFc,I Wanna Kiss You
+0zTSxmqujphGqVNdd33Mq5,Awit Ko Na Naisulat Dahil Sa Kagandahan Mo - Minus One,237600,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,0lPcGBzpPjoMAS62iExieD,Awit Ko Na Naisulat Dahil Sa Kagandahan Mo (Minus One)
+3V8UIN1Xli8KmgyevIle2Y,Awit Ko Na Naisulat Dahil Sa Kagandahan Mo,236419,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5S0ZDnuNJpjlN9YiHYpsCW,Awit Ko Na Naisulat Dahil Sa Kagandahan Mo
+79cNKZg5oo2FHmnj99K8rQ,Pieces of My Life,291830,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,2Gxsv9XrzRkrjexEWWaxaH,Pieces of My Life
+6m9YKCOZpdkLzPqUwCM9ha,Chosen,313541,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,6wh0T0S950yhOVVT6kJjm2,Chosen
+102D0kplUrZY83Bx1J0DnG,God Gave Me You,267560,"['3pTaNQJ7TAU4yL7KEZp5sF', '5xJfSowQoxaxY4DCVLTfr5']","['Nyoy Volante', 'Sabrina']",2,40nVV6Eltyi1Hs6UjYW4RL,God Gave Me You
+1hjfa1y9oswCrXTsMf1wjS,Akong Bililhon,224034,1vZKdcd7YuW307ajNbePUS,The Marshland,1,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+2pXCrjCVUJjhE5iRj4cDkV,Kasadya (feat. XT on Sax),228744,"['6VARoQYQ6vmdZIhFpvCaz4', '1xnFYfgFtDrGhNy4IIi61W']","['Jay-ar Vaño', 'XT on Sax']",2,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+2Fddbtw714bTOyZrb3r2zC,Pahuway,273244,199ECS30J1oOc3Ftz93dsk,Ferdinand Aragon,1,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+4KA5HBkoafhrK6aD0U0BCb,Bestiny,261680,"['6DTkgCyJZzWcgSMSARKMVM', '3r0NbTTxtCBUyxcIR4prXr']","['Kevin Yadao', 'Jr Crown']",2,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+3vT8K4JGvsR11B7dp4adcZ,Huling Sayaw,274812,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+2oCU87rTvb4YV6f6i3NzK7,Mapa,250916,"['5ZBPrCqoAHKDnKEh271kYK', '30WmJkQ2BeBNgb27jhf11u']","['Chloe Redondo', 'Aikee']",2,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+0e8gGbGwqEk4BcWOwOwqeR,Agsardeng,260470,23pll5spPg83AUrbSegAtX,Miss Ramonne,1,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+4gLklAZCbIe6GzovKVZ6b4,Balikan,245327,5w22j2yXzg6Q3y4KnBXU7H,Benj Manalo,1,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+20uLrmSJUennZwRi86TtoA,Paos,277807,0DouUeF604QbSdKYIL3xrq,Keiko Necesario,1,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+2x4xaeQ2qhZYIEYMa7I2I6,Ayaw Na Lang,215719,5Uc27X7zFLxVH0gO9kg54h,Lourdes Maglinte,1,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+1wmbubYuhEQzibJmxPqkML,Hinungdan,312826,4SF0FW2zi21DoLwy91R2Yz,James Gulles,1,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+2WnVuNyHipbKV8I0swTy75,Suyo,200630,5jAOzTxCoR1qHXKVHsfDSr,reon,1,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+5zYJ7P1MFRyTSGl3lJ9De4,Bitaw,250523,5nQaLW2m4fzJwUVluO03hQ,Zsaris,1,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+2B0Wd4DarPKURiSxaBwKNV,Lunod,310802,1iniYxgC28JnafDZZAeEI9,Shaira Opsimar,1,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+0VYZ7PIOwPnAtfh7baNM8G,Para kay Catriona,264462,7tKpXx21KVUOR6vvDs6xtg,I Belong to the Zoo,1,5dE7Ya7ysU0jIPdBh6OShZ,PhilPop 2020: Music Breaking Borders
+2Dc42FhY3f8oPCCWuRnvWL,Nobela,291506,70ljCILl0aVXitf3K39YvT,Join The Club,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+1ayD6qLOfcpdEJPrLxkx7v,Languyin,264253,3Hvxz2oZPYuo61ChHKcqQI,Autotelic,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+41bwYNIeMv04TKmkqdVIDv,Buwan,343446,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+1yhxWgwlqkRd8C3faaMokE,Tuloy Pa Rin,236453,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+52VhpgTV8j4FermHPMyFjq,Kung Pwede Lang,296786,5xJfSowQoxaxY4DCVLTfr5,Sabrina,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+24QF8u4A2rNalSHUnWFlsc,12:51,246280,09DdQEMQaaq0f99vqqub3V,krissy & ericka,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+4w6aaBg73MdTQNO8w6IvB2,Just Wanna be with You,229506,31oMMIBDMM2Z1RQO7u8irE,Side A,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+5LgGYrWPtGerHgQjs4Q6Hn,Right Now,241462,41pLCD280F2n813cKHt1yt,Isabela Vinzon,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+3BhXMhEkUCH8jYQYYu2rqx,Line To Heaven,205243,4Z0zs3x0hfteT8K4SH7h00,AM/FM,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+1WoUahnqaRu871SiuWYPlC,Bwelo Lang,248374,"['0jSZF2C5Q5YNdJjkX3uyNP', '6jcNYnDRcaKoHyvzPBQVGb']","['Edray Teodoro', 'JK Labajo']",2,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+28CJUYlZtjrhwJpAgNLpAS,Mapansin,218493,33kC1w8s5cXEi1zyJZuqSI,Paolo Santos,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+3RPeKov21yZvYJWuQSTIjf,Isipin,258000,1LKL2kKeoS9zKVOfYHEeF3,Miguel Escueta,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+6znLmlLKe3DT49BBSABIaf,We Can't Be,241373,4qzcg58jZdJ9ujEI6Cs3Ad,Krissy,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+5XqohlipAGqHrpBl6zh2gF,Ikaw Pa Rin - From Nakalimutan Ko Nang Kalimutan Ka,225000,7fftBnwbUIMwSHU8lRtuWv,Raffy Calicdan,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+4BTkkRkWhoe7pgFJFozajQ,Arbitrary,338861,1hMAGfvamVXuSWBFQRFMeq,Over October,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+3TGPTqlg97dH0qWupQv04T,First Of Summer - Live At The Campfire Sessions/2018,238751,18B9mAtwCLjkXGMlBtH1LZ,Urbandub,1,7i8bEl9KLLCVrreUG6YS6k,Pinoy Pag-ibig
+08K1axf9IxdzEiilmkS7eF,Prelude,72572,"['0AI9aMBxeYTWnqnf0n63of', '3m6LsCP4SaZGScWSqwADvI']","[""Children's Choir"", 'Bukas Palad Music Ministry']",2,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+1oStu2GdZuAQ8WeInls3KG,Chosen - Saints Sinners Misfits,313541,"['3pTaNQJ7TAU4yL7KEZp5sF', '3m6LsCP4SaZGScWSqwADvI']","['Nyoy Volante', 'Bukas Palad Music Ministry']",2,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+7k3YR0fJEVzPI9uSEyfQYA,Hey You Fool - Shadow Song,206735,1ZXTwHjcF5RmTC5GrjCDhR,Thor Dulay,1,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+56WxiaIpRGC2kkHWi0nPGu,Shooting Stars,276703,"['7ygtjsCTrCQZAYYPOne9uE', '7DW4ijH3n36QN0RlC0n649']","['Erik Santos', 'Angeline Quinto']",2,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+3kSPYHBF9S5cKRhPHzBhAp,Throwback Thursday,334772,1mcqfNCReSFxun2vIWvC28,KZ Tandingan,1,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+4QbIi7HIvoCqHaEnNC9ACV,Catch Your Eye - Sarah's Theme,301133,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+3EfMRAcNXVV3Vtyl4p89Wy,The Plot Thickens - The Prophet's Rap,167872,"['1vg8YXdgvLLPPeXZkM7g5W', '73dgrlUNeTLiZFL1BpNVlw']","['Daryl Ong', 'Sam Mangubat']",2,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+6k0bf8HfteDmUgChul1n3c,Stealing Fire - David's Theme,289507,1vg8YXdgvLLPPeXZkM7g5W,Daryl Ong,1,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+61Y59g8ixSfc2ut7WwB6XC,Hard to Get,247310,"['4LTJwj8UNLy3ApvH7XUiiq', '1UBtquuUSFe0uhz662TicE']","['Martin Nievera', 'ABS-CBN Philharmonic Orchestra']",2,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+7IGRA2UP5yDToZN7g298lO,Theory of Everything,184000,6IMoRSrb0gbPbrjQ4m8cy0,Boyband.Ph,1,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+5VPOtPmvUCtbLAIUk1H5Mc,The Better of Me,333916,"['2GqX0GnrKdi6Z2X2OReYOK', '1UBtquuUSFe0uhz662TicE', '2gSYLA4DhVmc9XBqtw8CyB']","['Piolo Pascual', 'ABS-CBN Philharmonic Orchestra', 'Sachi Ingles (Spoken Words)']",3,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+6ShBrKFlQpkB2LhxRVKSXZ,Must All the Nice Guys?,289116,2DVjB2nSojLRYRbUT74c8H,Brenan Espartinez,1,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+4zzbS6FadMZNyu6VoE1TIq,Just a Little Soul,269798,"['0XOSmu9Qn1agQULUVe0dAK', '1mcqfNCReSFxun2vIWvC28']","['Inigo Pascual', 'KZ Tandingan']",2,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+5GYTG1LRqUiWHBxpZ1NA1J,Dark Side of Your Moon,290478,7LVPSD4kabI5LiXIVPI8tn,Jona,1,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+5YBqQ6b6TEC5hh9F2xAgGB,No More Music,288231,7DRgc0ko15aNa7DMeZ3J8G,Jed Madela,1,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+0QEonwZRTgpVvzJQhxip1q,Better Angels,205113,"['2fonBGBLc7lUoikMqms5Zl', '3m6LsCP4SaZGScWSqwADvI']","['Noel Cabangon', 'Bukas Palad Music Ministry']",2,0lWlViaBgXo21nodzXH9Fr,Chosen (Songs from an Original Musical)
+4swXtppnduP7wIFZcawAlv,Winter Wonder Land,218320,16IDLKLHYcpmPRIQQP2L4G,Ralph Padiernos,1,05RWcYDVvEAYnZXZh25mLN,Yultide Blends
+21Sce821ibaaUfefu0yanC,Oh Holy Night,308131,16IDLKLHYcpmPRIQQP2L4G,Ralph Padiernos,1,05RWcYDVvEAYnZXZh25mLN,Yultide Blends
+67jjMik18mik3cLlvWcPll,Grown up Christmas List,270920,2HdUtKuSooPkWZe5Is3DaB,Sarah Caballero,1,05RWcYDVvEAYnZXZh25mLN,Yultide Blends
+4T5UKn2z6jGEhINXX7QGXR,Merry Christmas Darling,188590,5spjvocUaAHnk8zYnBUixh,Ma. Giedie Maureen Laroco,1,05RWcYDVvEAYnZXZh25mLN,Yultide Blends
+4bV9yHuEb5nrX6Xm8VQsEX,The Christmas Song,249601,4n07UfjsMoXM8bNglyfN33,Garrett Bolden,1,05RWcYDVvEAYnZXZh25mLN,Yultide Blends
+5WVoUOgUWvsO6Moj45ar2s,Have Yourself a Merry Little Christmas,208984,"['0W4OfNX2lNsMTV83ii9DC8', '3pTaNQJ7TAU4yL7KEZp5sF']","['Phoebe Salvatierra', 'Nyoy Volante']",2,05RWcYDVvEAYnZXZh25mLN,Yultide Blends
+7Ib7PYyL4zSiPwOfRQc9YN,White Christmas,222962,3Y15hxnbrV6UnvYWcI1h0p,Chocolate Factory,1,05RWcYDVvEAYnZXZh25mLN,Yultide Blends
+07B28EVHLEq78d7fH5aDjM,Christmas Day,246970,3Y15hxnbrV6UnvYWcI1h0p,Chocolate Factory,1,05RWcYDVvEAYnZXZh25mLN,Yultide Blends
+5vofApJuT27DLGrwQEa5Md,Stuck - Acoustic,281026,0u4G1K1CSzcp5PZ6G6FIGu,Darren Espanto,1,3x8JjOYWv1IA85NRDC5k4c,#FeelGoodAcoustic
+4e7lBB3qGPqvJ8FzYHPl8o,Di Ka Man Lang Nagpaalam - Acoustic,235786,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,1,3x8JjOYWv1IA85NRDC5k4c,#FeelGoodAcoustic
+4R6hz1FzxrdBqmkujjHK77,12:51 - Piano Version,243786,4qzcg58jZdJ9ujEI6Cs3Ad,Krissy,1,3x8JjOYWv1IA85NRDC5k4c,#FeelGoodAcoustic
+4Ryh60ix5LXFscageTqwGN,God Gave Me You - Acoustic,265840,"['3pTaNQJ7TAU4yL7KEZp5sF', '4EUyVNVDmSCW2351l0gHXT']","['Nyoy Volante', 'Sabrina Orial']",2,3x8JjOYWv1IA85NRDC5k4c,#FeelGoodAcoustic
+0U27v3v24yuKSvh8qQoQLt,Fix You - Unplugged,275613,486NCEPEjyqCl4VefEr9ab,Myk Perez,1,3x8JjOYWv1IA85NRDC5k4c,#FeelGoodAcoustic
+1iAeMnYpaRUn0Im125ZV5Y,Maybe This Time - Acoustic,222000,4naOha45BMkEKW6fnTPQ3A,Zendee,1,3x8JjOYWv1IA85NRDC5k4c,#FeelGoodAcoustic
+4MOQof6tGM0MzqdJonh9Mm,Caught In That Feeling - Acoustic,203493,74KlZuH1AECATYKwBlWAdg,Jason Dy,1,3x8JjOYWv1IA85NRDC5k4c,#FeelGoodAcoustic
+65coDFx7vH6S1T407yuFI5,I Believe I Can Fly - Acoustic,263480,6jtan6NPL80JFme8IkFiy7,Janice Javier,1,3x8JjOYWv1IA85NRDC5k4c,#FeelGoodAcoustic
+66ArE5S0HuFP2JT2yEdGsX,Lord Patawad - Acoustic,306000,24GNt8qmlsj3hwYgRgiTQ9,Bassilyo,1,3x8JjOYWv1IA85NRDC5k4c,#FeelGoodAcoustic
+1sseZxf7KW0lqf3vo3jDBo,Make You Feel My Love - Acoustic,224840,6qIypqX4XDKPnjLdTWjdMK,Paolo Onesa,1,3x8JjOYWv1IA85NRDC5k4c,#FeelGoodAcoustic
+1VXWIeBsFR66bstpB9sn0T,Tinatangi,212933,"['6CERgHldfS1Sk1rcZBBbFz', '301vkLsUJgZZ05hWnT14YO', '1Y0hRtl21FgNwBR81H4L9a']","['Cookie Chua', 'Bayang Barrios', 'The Benjamins']",3,1eu0hC9FbOG6Frp1siFDIA,PhilPop 2016
+1mBZJJk7Ph0uvGvm3pryna,Binibini Sa MRT,239573,1YlibpAvhJBbMZMBwN1KGv,The Juans,1,1eu0hC9FbOG6Frp1siFDIA,PhilPop 2016
+4QyWaM34aBujzZa5zcvlWt,Kahon,155160,2uLealUq7Lu3UmkkYbReyo,Ramiru Mataro,1,1eu0hC9FbOG6Frp1siFDIA,PhilPop 2016
+4oUXp6L1fGmGJHX4C8P0ve,Pabili Po,203933,"['0U46MggdSX3enMM5t5G7jI', '30WmJkQ2BeBNgb27jhf11u']","['Banda Ni Kleggy', 'Aikee']",2,1eu0hC9FbOG6Frp1siFDIA,PhilPop 2016
+17HqxPmcsvwRovJPLsvg5e,Dumadagundong,224026,77y4D50m5EAQjB0x7XW7Lc,Yassi Pressman,1,1eu0hC9FbOG6Frp1siFDIA,PhilPop 2016
+3fRr4rmzBEMrstEizUIbSu,Friday Night,195226,45yGADm0D2Kf9SWjZZDXR7,Kenjhons,1,1eu0hC9FbOG6Frp1siFDIA,PhilPop 2016
+1KeM44mgfRIySbziNO6cAF,Lahat,236000,74KlZuH1AECATYKwBlWAdg,Jason Dy,1,1eu0hC9FbOG6Frp1siFDIA,PhilPop 2016
+3CYyK6YGUQHYshCzQrviQr,Nobody but You,238773,0BCmOZldVbuDQsMqyLC7La,Monica Cuenco,1,1eu0hC9FbOG6Frp1siFDIA,PhilPop 2016
+0CDssurVIP4pac1YZQOljO,Di Na Muli,260626,5cYJYBMg1n71v7cvthr1SO,The Itchyworms,1,1eu0hC9FbOG6Frp1siFDIA,PhilPop 2016
+5j5nTc7jdgTz2BLKzb1wRq,Baliw Sa Ex-Boyfriend Ko,219360,"['3KQKz2IH452AmBtwYrDsRy', '7j7r9DarpcGbCJJn0eKlgX']","[""Sugar 'N Spice"", 'Joan Da']",2,1eu0hC9FbOG6Frp1siFDIA,PhilPop 2016
+6hrg5S0P5pZbLdo4TLn2uN,Sintunado,235440,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,1eu0hC9FbOG6Frp1siFDIA,PhilPop 2016
+6AxGB7FUDyJxRxAnA0tb84,Stars Are Aligned,242746,"['0SG7a26LiFGt8E0olaIOpx', '0QX9MPClAh08jmRsg3VHBY']","['Acapellago', 'Jimmy Marquez']",2,1eu0hC9FbOG6Frp1siFDIA,PhilPop 2016
+669byYpbpSgEnFf9nvc493,Ambon,282306,6XMiJRtSvw0PYHOBSBEsMg,Barbie Almalbis,1,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+1rcbCAz5H6jItadS1EukrY,Bibitawan Ka,252320,4BNWanhw4AjSXjBm9L1Jzy,Juris,1,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+7DuHkZUvKgLzO32ZRARiBD,Dalawang Letra,218013,5cYJYBMg1n71v7cvthr1SO,The Itchyworms,1,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+0Z33DQyY4CSqlOPidaQlYr,Diamante,236626,62WbvkXqQGvXQvw74GU3kQ,Morissette,1,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+66fwCEKo4vpLho0GiL2FsB,Laban Pa,271106,"['2RrqmDqgE5KxwunNfJQcJU', '3z0IVhtuFvt9VYUZGT98PU']","['KZ', 'Jay R']",2,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+76Tv1xrJdj6UQSkDbHoJJI,Maghihintay Ako,227893,7LVPSD4kabI5LiXIVPI8tn,Jona,1,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+6HWlRQepPu2rwNOmryAUOe,Mananatili,188160,"['1tAy6yNerMoGLpEz5kIQIP', '5TNuvf8y7Y3QLXsNaIYCYX']","['Marlo Mortel', 'Janella Salvador']",2,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+5xsEYFPJG3wVjP83RFKVwz,Minamahal Pa Rin Ako,251333,1vg8YXdgvLLPPeXZkM7g5W,Daryl Ong,1,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+4I4oGKMyUHZwwnGB5HwltA,Monumento,239933,"['2vTbuBRo7ACOZ3JsCnaL7S', '11Jdq2gOTBhmfEYmFrZlue']","['Kyla', 'Kris Lawrence']",2,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+18FfSlqAmCuSVswQDj8TdK,Nyebe,237946,0xNog7ZdcTq9sJFiIXJJTH,Kaye Cal,1,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+0tFf7zT24Qf0fPPv1kSzqJ,O Pag-ibig,217453,"['69ug07KFFRhcCZ7iZ1Mn1i', '2qnQOnL1oLKtH779qZ6iuR']","['Bailey May', 'Ylona Garcia']",2,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+1h1o0EluX21m4c1eXqGgUf,Parang Tayo Pero Hindi,224693,"['7DW4ijH3n36QN0RlC0n649', '7c8oOasQgqiFwOG0qLu9Kz']","['Angeline Quinto', 'Michael Panglinan']",2,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+4SBgYkam2ehlZaJX5EMB5P,Patay Na Si Uto,186600,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+6RmSwHuUaWwptbMrPHOzYN,Sana'y Tumibok Muli,250746,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+5qw9Kk15BMIvl933JQWHOv,Tama Lang,203533,19jotRfFullBKocQAhkvjs,Jolina Magdangal,1,0RY4tAeB03K1MfSwe8R4D6,Himig Handog P-Pop Love Songs (2016)
+0SVLGdRU9x8LVK4daRHIul,Lord Merry Christmas,225773,"['24GNt8qmlsj3hwYgRgiTQ9', '11W91yRxIo7Mw75LClgrGx', '0u4G1K1CSzcp5PZ6G6FIGu', '0a4r2EnsevvHCukoJ1xFwJ', '5CE2RNG7WQCwCE63g39Lz7', '2f7iN1lbyBJfs8n1onlT2u', '0jSZF2C5Q5YNdJjkX3uyNP']","['Bassilyo', 'Lyca Gairanod', 'Darren Espanto', 'juan karlos', 'Darlene Vibares', 'Tonton Cabiles', 'Edray Teodoro']",7,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+1FkkLiLUkzzSE0ClbfLgyO,"Merry Christmas, Darling",210226,0t7vWPRBcVv4xBEHPZHSWA,Sitti,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+0YP0qvxKro01kZSKTffNKE,O Little Town Of Bethlehem,224133,0u4G1K1CSzcp5PZ6G6FIGu,Darren Espanto,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+4GYFZHb703R9YRbOUtdcBK,Miss Kita Kung Christmas,239080,11W91yRxIo7Mw75LClgrGx,Lyca Gairanod,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+48bZ9Bl553wcO8Qm6wB0oa,O Holy Night,162000,1Y8CxltubSeAYyolYc7rEN,Mitoy Yonting,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+56BpA4zSpGPCqSbMfZdoAL,Silent Night,149653,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+5kKfZbSUnpLassHCQLevgT,Grown Up Christmas List,231626,6jtan6NPL80JFme8IkFiy7,Janice Javier,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+2e5zzE86EvxHkkeoTJ1JSd,Be With You This Christmas,354933,486NCEPEjyqCl4VefEr9ab,Myk Perez,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+5TmDTvabROoEhxiJsfwhE5,Auld Lang Syne,206573,4qzcg58jZdJ9ujEI6Cs3Ad,Krissy,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+22xQJoBZQ9ejtkwDzFfBmp,Blue Christmas,192680,4naOha45BMkEKW6fnTPQ3A,Zendee,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+7uyfsGEG8yIyg6yBrIfxkN,Jingle Bell Rock,171280,5xJfSowQoxaxY4DCVLTfr5,Sabrina,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+72OYzOOhWOakn1o9dAEcgE,"Maligayang Pasko, Mahal Kita",264040,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+2RWydLSXej6CUH9jYtWcTe,It Came Upon A Midnight Clear,266000,6qIypqX4XDKPnjLdTWjdMK,Paolo Onesa,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+7oZHdabYGuTGkfnA05zbHu,Last Christmas,277520,18B9mAtwCLjkXGMlBtH1LZ,Urbandub,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+1vBxfKwO9OMWG9S0cSjFiO,The First Noel,211053,6RMFs9IdGEE7sAwQHMK4UY,Nicole Asensio,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+13XLpWfj09SbudzZyb8zdC,Joy To The World,177426,5CE2RNG7WQCwCE63g39Lz7,Darlene Vibares,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+3KQXZ90Dr92Q189LT60fn7,We Three Kings,210240,0BtFY6sVXUJUyjS6xU5aO1,Iktus,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+35yodxjpuxkK46Kk94ct2l,O Come All Ye Faithful,158186,5uEGt69F7yGcYoQVn58NgU,JC Regino,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+0VPWWWQNOj7gKTbllUk9Fl,Hark The Herald Angels Sing,212240,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+03clAh0n67tFSUr8STq7bZ,Angels We Have Heard On High,198120,78q4UvKlFj32kUFHpeDdcM,Square 1,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+2TRMBs9mFyGHO6VXNvKcpO,"Thank You, Ang Babait Ninyo",352333,"['11W91yRxIo7Mw75LClgrGx', '0u4G1K1CSzcp5PZ6G6FIGu', '0a4r2EnsevvHCukoJ1xFwJ', '5CE2RNG7WQCwCE63g39Lz7']","['Lyca Gairanod', 'Darren Espanto', 'juan karlos', 'Darlene Vibares']",4,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+0XxoGt6F17quACPr4OGJd7,Puso Ko'y Namamasko,237275,74KlZuH1AECATYKwBlWAdg,Jason Dy,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+3lkSq67Lm6c14C2zBPhfrw,Pasko Na Sinta Ko,250573,1U9hcWiEuYvA4OAUVHNXWs,Elha Nympha,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+4peIL3Xwaivb6pzoxrhaYx,Kung Wala Ka,266000,139F6H5tm7wg7WItJl1IIE,Reynan Dal-Anay,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+4qyxmmm80LZeV9Licn3Eko,Away In A Manger,164500,7f1OL2eM56dr8qRZulbKl0,Esang De Torres,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+3ZWyecKYGIijcWsasDdPFO,You're All I Want For Christmas,191500,5F3JxNxRYVoMvBDbFqvHhB,Sassa Dagdag,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+0dBXB6ZARUjrvF8MuWR07B,God Rest Ye Merry Gentlemen,175506,5zgzC3GN377SJAQ9y7wnru,Zephanie Dimaranan,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+2iAJLrRjwuz4RT9YSfUWx3,Carol Of The Bells,158000,5AlRSaINUbqMFBIo1lh0dv,Domino,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+3m8PTSZ7DGkjRYmMcPmkg3,Little Drummer Boy,226320,53qa1XIZ6pZuhrGDetCGew,Kyle Echarri,1,4C4T82rf97bWUn9lYjW2Vh,My Christmas Album All Stars (Deluxe)
+5cg24HiSXvPfQQS5nVll4k,Marry Me,220960,6qIypqX4XDKPnjLdTWjdMK,Paolo Onesa,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+1CIcn59Wv6f3v5fr0C2qZD,You And Me,193607,5xJfSowQoxaxY4DCVLTfr5,Sabrina,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+4B8v9hVtsfJeiEdDGDjA6W,All Of Me,315511,5xJfSowQoxaxY4DCVLTfr5,Sabrina,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+7ef2PJVtrX1HITOPLEI9Sb,Kahit Maputi Na Ang Buhok Ko,224303,7JIoxIiRqaLg42e1w27TXx,Richard Poon,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+0IBVUBqOugHpSQwvLVO4VK,A Thousand Years,263730,5xJfSowQoxaxY4DCVLTfr5,Sabrina,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+513ECpHyfHvyP3eEBoq36o,This I Promise You,240510,5s4mdbGeKp5OzUhUkSTcXj,Dianne Elise,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+6CrkSZa1l05Iymj5XHgvkI,God Gave Me You,238003,"['5xJfSowQoxaxY4DCVLTfr5', '3pTaNQJ7TAU4yL7KEZp5sF']","['Sabrina', 'Nyoy Volante']",2,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+7mH2b3zoF7tIDDkUc0DFt7,Runaway,221517,486NCEPEjyqCl4VefEr9ab,Myk Perez,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+3U8I1ZdwibaiojEq595Bfr,Nothing's Gonna Stop Us Now,273530,"['3vFDvFtR8VKEITzDa2ddKe', '45DUUqLXUpSjzfmlSXrAEA']","['Toto Sorioso', 'Lulu Panganiban']",2,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+5gz2g2oGodGOAcJlWe35wD,Lucky,217290,"['5xJfSowQoxaxY4DCVLTfr5', '7JIoxIiRqaLg42e1w27TXx']","['Sabrina', 'Richard Poon']",2,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+5CiwsJHd7aFshKTUepPWJN,Now And Forever,206239,11Jdq2gOTBhmfEYmFrZlue,Kris Lawrence,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+1KW4hJW1kmvA8z5YUmktvd,Baby Now that I've Found You,206981,09DdQEMQaaq0f99vqqub3V,krissy & ericka,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+0VeHplSVBWTrx0FpZrSngm,Overjoyed,230062,4Tk99lkogsaMWxsx1XUQDj,OSM2SM,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+30tvGBiU4hHTRyqVkGz0lA,Beautiful As You,242230,7JIoxIiRqaLg42e1w27TXx,Richard Poon,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+0IJhnylMTqoSGats17fHaf,We've Only Just Begun,208560,1teFgewFVUs4RrjoZGdKzk,Mitzi Caballero,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+0etkTc48bKDX1fvae98Ru0,Promise (I'll Never Say Goodbye),200201,3vFDvFtR8VKEITzDa2ddKe,Toto Sorioso,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+2w4xHQoRohOApeOUL6udFp,I'll Take Care Of You,254629,7JIoxIiRqaLg42e1w27TXx,Richard Poon,1,3It28BhZU6uXeNLrhJBhBB,The Wedding Album
+3TxZx0DZg7oFaTh6Xbmgxe,So Much in Love (Misty / When I Fall in Love),241250,65vHHaR3ArHlM8S51x1MCn,Shiela Valderrama,1,5grioLuCpESyDIKxLWzuLv,Shiela
+4twXTUIW0TKHKMjzktsS9p,At Last,254629,65vHHaR3ArHlM8S51x1MCn,Shiela Valderrama,1,5grioLuCpESyDIKxLWzuLv,Shiela
+4mHIzXHtq2CirctXzhmr9D,Dream a Little Dream (feat. Nyoy Volante),202361,"['65vHHaR3ArHlM8S51x1MCn', '3pTaNQJ7TAU4yL7KEZp5sF']","['Shiela Valderrama', 'Nyoy Volante']",2,5grioLuCpESyDIKxLWzuLv,Shiela
+7JOi5hhRCeLlt8C12wdNzI,I've Got a Crush On You/Embraceable You (feat. Christian Bautista),308039,"['65vHHaR3ArHlM8S51x1MCn', '4U78sK2D3zASSB6oSR38GQ']","['Shiela Valderrama', 'Christian Bautista']",2,5grioLuCpESyDIKxLWzuLv,Shiela
+6kZByggmAJedtRDpL40218,What Happened to Us,265730,65vHHaR3ArHlM8S51x1MCn,Shiela Valderrama,1,5grioLuCpESyDIKxLWzuLv,Shiela
+3vyZwEdMrPAiSBYCW2IxHE,Finally (In Your Eyes),249943,65vHHaR3ArHlM8S51x1MCn,Shiela Valderrama,1,5grioLuCpESyDIKxLWzuLv,Shiela
+6CS22LVNEs7Jr5vwE94cds,That Time of Year,166822,65vHHaR3ArHlM8S51x1MCn,Shiela Valderrama,1,5grioLuCpESyDIKxLWzuLv,Shiela
+4JpIpKBv2eiuJFCTADiG7F,Lord Merry Christmas,225773,"['24GNt8qmlsj3hwYgRgiTQ9', '11W91yRxIo7Mw75LClgrGx', '0u4G1K1CSzcp5PZ6G6FIGu', '0a4r2EnsevvHCukoJ1xFwJ', '5CE2RNG7WQCwCE63g39Lz7', '2f7iN1lbyBJfs8n1onlT2u', '0jSZF2C5Q5YNdJjkX3uyNP']","['Bassilyo', 'Lyca Gairanod', 'Darren Espanto', 'juan karlos', 'Darlene Vibares', 'Tonton Cabiles', 'Edray Teodoro']",7,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+5JdmNhYd47zfIMmvK7iunq,"Merry Christmas, Darling",210226,0t7vWPRBcVv4xBEHPZHSWA,Sitti,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+4aGH7GZk2MKsOYtOUmujEp,O Little Town Of Bethlehem,224133,0u4G1K1CSzcp5PZ6G6FIGu,Darren Espanto,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+1fe2MN0fEPqepO0p4tYpx2,Miss Kita Kung Christmas,239080,11W91yRxIo7Mw75LClgrGx,Lyca Gairanod,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+3wV7IasDAbZkiFknCriM7d,O Holy Night,162000,1Y8CxltubSeAYyolYc7rEN,Mitoy Yonting,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+2mrcmG6FT2mgvfakwkgxSG,Silent Night,149653,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+5nF4ra7lETOa2Wc4LrQ01g,Grown Up Christmas List,231626,6jtan6NPL80JFme8IkFiy7,Janice Javier,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+2cmvyxuXLBD9qHwITw0ouL,Be With You This Christmas,354933,486NCEPEjyqCl4VefEr9ab,Myk Perez,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+0sS0jY2A9HSDVykeTCM6Ac,Auld Lang Syne,206573,4qzcg58jZdJ9ujEI6Cs3Ad,Krissy,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+3pLEspksazlBj9MU1hhqAk,Blue Christmas,192680,4naOha45BMkEKW6fnTPQ3A,Zendee,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+42VjWCSo82l7lbNmJytXjD,Jingle Bell Rock,171280,5xJfSowQoxaxY4DCVLTfr5,Sabrina,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+1PUNaXf4FgSpgfnXhc7CpS,"Maligayang Pasko, Mahal Kita",264040,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+4WOSIah3a9NefaAc4Bhv8z,It Came Upon A Midnight Clear,266000,6qIypqX4XDKPnjLdTWjdMK,Paolo Onesa,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+1DMAPMio0Z9WyoTBupL6Rg,Last Christmas,277520,18B9mAtwCLjkXGMlBtH1LZ,Urbandub,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+3mlL8QF1MRapdzZwkoQ3SP,The First Noel,211053,6RMFs9IdGEE7sAwQHMK4UY,Nicole Asensio,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+3aM7B8VfDcZNh1ttyWE4Qv,Joy To The World,177426,5CE2RNG7WQCwCE63g39Lz7,Darlene Vibares,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+2XZvSTWREJvnSx1n5ERG70,We Three Kings,210240,0BtFY6sVXUJUyjS6xU5aO1,Iktus,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+515aPNKoXcgx7MbhPpHvSC,O Come All Ye Faithful,158186,5uEGt69F7yGcYoQVn58NgU,JC Regino,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+7gLW7PHYPAQGqDUwp69idy,Hark The Herald Angels Sing,212240,0a4r2EnsevvHCukoJ1xFwJ,juan karlos,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+2DbYby1XvdK3Es63hTTziz,Angels We Have Heard On High,198120,78q4UvKlFj32kUFHpeDdcM,Square 1,1,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+7bSkBa6NFQaZSQgIeMUCS9,"Thank You, Ang Babait Ninyo",352000,"['11W91yRxIo7Mw75LClgrGx', '0u4G1K1CSzcp5PZ6G6FIGu', '0a4r2EnsevvHCukoJ1xFwJ', '5CE2RNG7WQCwCE63g39Lz7']","['Lyca Gairanod', 'Darren Espanto', 'juan karlos', 'Darlene Vibares']",4,4A9S4XKYdQe34361BghyNX,My Christmas Album All Stars
+1cN6lXV2L2bvEOg4eOzjQJ,Di Kayang Pilitin,251080,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,0swZ9LxKURETHSnDWFD8He,Klarisse De Guzman
+7B7XUwDRnfmHO0hvfEQtYm,The Climb,270560,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,0swZ9LxKURETHSnDWFD8He,Klarisse De Guzman
+7JReIfSCh0yOKQLknvQhJ4,Slowly,245680,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,0swZ9LxKURETHSnDWFD8He,Klarisse De Guzman
+3fMSicKaFqfcaxpfG5l2Eu,(Everything I Do) I Do It For You,251898,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,0swZ9LxKURETHSnDWFD8He,Klarisse De Guzman
+3mh10gvGA5yZVp77v8DZLm,Sino Ka Ba?,336133,"['7r59WFPJdYBQmnIQB4DX7K', '3pTaNQJ7TAU4yL7KEZp5sF']","['Klarisse De Guzman', 'Nyoy Volante']",2,0swZ9LxKURETHSnDWFD8He,Klarisse De Guzman
+0ufFa1tVpTqiysMhx2lTwb,To Love Somebody,224480,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,0swZ9LxKURETHSnDWFD8He,Klarisse De Guzman
+44MqBQqBF1v7EkKH7ySzlp,Sayang Naman,248013,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,0swZ9LxKURETHSnDWFD8He,Klarisse De Guzman
+5vYudjHHgPS0cqFbwT9AL8,Stuck On You,205266,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,0swZ9LxKURETHSnDWFD8He,Klarisse De Guzman
+1IznjMBgOUrN5G2hLxFfHn,Magpakailanman,247466,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,0swZ9LxKURETHSnDWFD8He,Klarisse De Guzman
+62fijbOOtwCRrH7DkaRwVF,I Can't Make You Love Me,220773,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,0swZ9LxKURETHSnDWFD8He,Klarisse De Guzman
+39GAkS6HCXvugsFJunLdnp,Sabihin Mo Sa Akin,255000,7r59WFPJdYBQmnIQB4DX7K,Klarisse De Guzman,1,0swZ9LxKURETHSnDWFD8He,Klarisse De Guzman
+1hyTLe8lJLKDpqvsgBSq5T,Sino Ka Ba? - Acoustic Version,325441,"['7r59WFPJdYBQmnIQB4DX7K', '3pTaNQJ7TAU4yL7KEZp5sF']","['Klarisse De Guzman', 'Nyoy Volante']",2,0swZ9LxKURETHSnDWFD8He,Klarisse De Guzman
+5tMz2DampycdVsakVfLPit,Hope For Humanity,268629,"['1Y8CxltubSeAYyolYc7rEN', '7r59WFPJdYBQmnIQB4DX7K', '6jtan6NPL80JFme8IkFiy7', '486NCEPEjyqCl4VefEr9ab', '6qIypqX4XDKPnjLdTWjdMK', '5xJfSowQoxaxY4DCVLTfr5', '3pTaNQJ7TAU4yL7KEZp5sF', '24GNt8qmlsj3hwYgRgiTQ9', '006qXjBjmCE5OiJBqYnx7y', '2YqCLnPXc4pgNgn4R8hnUo', '5uEGt69F7yGcYoQVn58NgU', '4HKIxSEhjZyFXb4Qv74fwE', '5AlRSaINUbqMFBIo1lh0dv', '6eGQ0qPUlGBjmRgyQ84g3f', '552jNI1kUtB1FPRZFliQxc', '0eTKeqi9ekgs7UMs8ZGNkm', '2PLXBTj29QTjrzeczlUz06', '2KJNT20WR5CRzAs0Sn5zYH', '0t7vWPRBcVv4xBEHPZHSWA', '1an029RJkwZ1adPNhXSF5q', '4naOha45BMkEKW6fnTPQ3A', '6RMFs9IdGEE7sAwQHMK4UY', '1uaHjXL2DtgKmAgkgfU8P4', '11W91yRxIo7Mw75LClgrGx', '2f7iN1lbyBJfs8n1onlT2u', '0jSZF2C5Q5YNdJjkX3uyNP']","['Mitoy Yonting', 'Klarisse De Guzman', 'Janice Javier', 'Myk Perez', 'Paolo Onesa', 'Sabrina', 'Nyoy Volante', 'Bassilyo', 'Krissy Villongco', 'Ericka Villongco', 'JC Regino', 'CJ Panaligan', 'Domino', 'Ron Henley', 'Loonie', 'Gabby Alipe', 'Franco Reyes', 'Aljur Abrenica', 'Sitti', 'Solenn', 'Zendee', 'Nicole Asensio', 'Johnny Alegre', 'Lyca Gairanod', 'Tonton Cabiles', 'Edray Teodoro']",26,0lNpZvN5BjNoBTp6SrWaAX,Hope For Humanity
+5wcxTN3OxAHu514Bq9AcVM,When I Met You,260120,4BNWanhw4AjSXjBm9L1Jzy,Juris,1,45cXjqi3VW5dVg8cvB9gJa,Richard and Maya (The Wedding Soundtrack)
+0ZRnGGhOTX96GxWnGZa6tr,When I Fall in Love,257800,0DnjaQqb436AH1idffI6CQ,Yeng Constantino,1,45cXjqi3VW5dVg8cvB9gJa,Richard and Maya (The Wedding Soundtrack)
+1ikQrOqBp9AdqkuJw4R6Ak,Paano,273546,0kRAKgEOVI43Qkz9PLmPt8,Bugoy Drilon,1,45cXjqi3VW5dVg8cvB9gJa,Richard and Maya (The Wedding Soundtrack)
+0Nh12VECghBfnkBaN5bqDQ,I Finally Found Someone,217133,"['74cooOijSvGeYlF4TiHfr6', '3MwMfMtrh8q9Whroa3Xqe6']","['Radh', 'Thor']",2,45cXjqi3VW5dVg8cvB9gJa,Richard and Maya (The Wedding Soundtrack)
+1dlWeMu46MOMYWpbT7y8RA,Kahit Maputi Na Ang Buhok Ko,197786,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,45cXjqi3VW5dVg8cvB9gJa,Richard and Maya (The Wedding Soundtrack)
+7BxdFNyU5gNkr3ksqCOzrO,Chinito,240640,6kqmwwEVjWeGYFOcp0H7BC,Jodi Sta. Maria,1,45cXjqi3VW5dVg8cvB9gJa,Richard and Maya (The Wedding Soundtrack)
+3V91LeZYAuWzg45F953ATf,Please Be Careful With My Heart,212133,"['6kqmwwEVjWeGYFOcp0H7BC', '6NXBmF4Z5T1WnH4mwmAq7H']","['Jodi Sta. Maria', 'Richard Yap']",2,45cXjqi3VW5dVg8cvB9gJa,Richard and Maya (The Wedding Soundtrack)
+7BdS2Sgg77WNH0n6rgmmNT,When I Met You - Minus One,261373,4BNWanhw4AjSXjBm9L1Jzy,Juris,1,45cXjqi3VW5dVg8cvB9gJa,Richard and Maya (The Wedding Soundtrack)
+2NSYWhieRBANpdg5h2yreR,When I Fall in Love - Minus One,261560,0DnjaQqb436AH1idffI6CQ,Yeng Constantino,1,45cXjqi3VW5dVg8cvB9gJa,Richard and Maya (The Wedding Soundtrack)
+5eMlsqZ5IQrYYnQHbn3zMn,Paano - Minus One,274853,2r1CpARspU9vCREee98Eaa,Minus One,1,45cXjqi3VW5dVg8cvB9gJa,Richard and Maya (The Wedding Soundtrack)
+2LfnMgoQDnpXZklhh06LUS,I Finally Found Someone - Minus One,217680,2r1CpARspU9vCREee98Eaa,Minus One,1,45cXjqi3VW5dVg8cvB9gJa,Richard and Maya (The Wedding Soundtrack)
+3fmHWhkOvJ25Mo6YZo5qcc,Kahit Maputi Na Ang Buhok Ko - Minus One,196026,2r1CpARspU9vCREee98Eaa,Minus One,1,45cXjqi3VW5dVg8cvB9gJa,Richard and Maya (The Wedding Soundtrack)
+2aKSb84ODDB8li9Xqr6075,Lord Patawad,321960,24GNt8qmlsj3hwYgRgiTQ9,Bassilyo,1,6bBr8bFcy1kHhzWL2sitmH,Certified OPM Hits 2
+1z6j6Ws2ClmLEXNfhxh9xN,Biglang Liko,256853,"['6eGQ0qPUlGBjmRgyQ84g3f', '7CUr4IIEAbSm9HTIDm8R1K']","['Ron Henley', 'Pow Chavez']",2,6bBr8bFcy1kHhzWL2sitmH,Certified OPM Hits 2
+3VOcAo6zhZ8hVWPb4YZlcg,Tao Lang,255653,"['552jNI1kUtB1FPRZFliQxc', '4N7VMCvYd9Reh5bJLnRVzY']","['Loonie', 'Quest']",2,6bBr8bFcy1kHhzWL2sitmH,Certified OPM Hits 2
+66FXmshq7t8xJMhd1WBrvS,Dota O Ako,232426,"['30WmJkQ2BeBNgb27jhf11u', '5xJfSowQoxaxY4DCVLTfr5']","['Aikee', 'Sabrina']",2,6bBr8bFcy1kHhzWL2sitmH,Certified OPM Hits 2
+6s0v7fOe7XIm1m1twf5xot,Paakyat Ka Pa Lang Pababa Na Ako,217840,4dlsoFRsNu2hApC2vQSx7b,Oktaves,1,6bBr8bFcy1kHhzWL2sitmH,Certified OPM Hits 2
+7uNZzfMLhue9qXXxL1K4ov,Tuloy Pa Rin,239760,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,6bBr8bFcy1kHhzWL2sitmH,Certified OPM Hits 2
+4G1xCE9QzEpknKBguBIUg6,God Gave Me You,267880,"['3pTaNQJ7TAU4yL7KEZp5sF', '5xJfSowQoxaxY4DCVLTfr5']","['Nyoy Volante', 'Sabrina']",2,6bBr8bFcy1kHhzWL2sitmH,Certified OPM Hits 2
+1YLjF5Dkz5JUnbCVe9zbI9,It Takes A Man And A Woman,228573,45DUUqLXUpSjzfmlSXrAEA,Lulu Panganiban,1,6bBr8bFcy1kHhzWL2sitmH,Certified OPM Hits 2
+4nwrAoJiqCa9rV5jaji2Th,Dota O Ako - Part 2,221306,"['5xJfSowQoxaxY4DCVLTfr5', '30WmJkQ2BeBNgb27jhf11u']","['Sabrina', 'Aikee']",2,6bBr8bFcy1kHhzWL2sitmH,Certified OPM Hits 2
+4suRgkj5wsvdPnN7yF1zo8,Lord Patawad,321960,24GNt8qmlsj3hwYgRgiTQ9,Bassilyo,1,7jFetYXvBvwL4qhGr9ezit,Certified OPM Hits 2
+1A9tvMhmckzK5xQ8bVqh38,Biglang Liko,256853,"['6eGQ0qPUlGBjmRgyQ84g3f', '7CUr4IIEAbSm9HTIDm8R1K']","['Ron Henley', 'Pow Chavez']",2,7jFetYXvBvwL4qhGr9ezit,Certified OPM Hits 2
+4Kco6ZYmL1afQY3F7LaE3B,Tao Lang,255653,"['552jNI1kUtB1FPRZFliQxc', '4N7VMCvYd9Reh5bJLnRVzY']","['Loonie', 'Quest']",2,7jFetYXvBvwL4qhGr9ezit,Certified OPM Hits 2
+0nbuL9GHg8Bjg5cLxdgTa8,Dota O Ako,232426,"['30WmJkQ2BeBNgb27jhf11u', '5xJfSowQoxaxY4DCVLTfr5']","['Aikee', 'Sabrina']",2,7jFetYXvBvwL4qhGr9ezit,Certified OPM Hits 2
+77RL0CrAO5X8gfy39nF5jE,Paakyat Ka Pa Lang Pababa Na Ako,217840,4dlsoFRsNu2hApC2vQSx7b,Oktaves,1,7jFetYXvBvwL4qhGr9ezit,Certified OPM Hits 2
+42VXJ3ULKI30bsND5O7Z8K,Tuloy Pa Rin,239760,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,7jFetYXvBvwL4qhGr9ezit,Certified OPM Hits 2
+39f5nkumbD6tUIT1dvcTjt,God Gave Me You,267880,"['3pTaNQJ7TAU4yL7KEZp5sF', '5xJfSowQoxaxY4DCVLTfr5']","['Nyoy Volante', 'Sabrina']",2,7jFetYXvBvwL4qhGr9ezit,Certified OPM Hits 2
+1rIQbNg53YiLW4TrRnHr2e,It Takes A Man And A Woman,228573,45DUUqLXUpSjzfmlSXrAEA,Lulu Panganiban,1,7jFetYXvBvwL4qhGr9ezit,Certified OPM Hits 2
+2AGwEkPSEvx9Rbchbtdyfq,Bawat Hakbang,247813,"['7zpGGtamV7jBkMIub59TRO', '5HraXCWAHs6SHMihg8azaZ', '019AMTEDK3fnnit5LMXJy5']","['Mark Bautista', 'karl villuga', 'Akafellas']",3,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+7hB9dAIUUyhPz3e3Dq3NRs,Tayo-Tayo Lang,239920,543f0NvGig5Moo9XROTUur,Ebe Dancel,1,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+3TEQHS51YDFKIA2w6Jr1dc,Kontrabida,253560,2P3aLwJ41aRYkyFFw2FRM7,Sam Concepcion,1,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+4SwP6tHuNFZz1QT1fkZyUQ,Bigtime,216853,4vlqbZE04cww7E7qyLBzjZ,Baihana,1,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+4GC8kwtv0blb5ZLgi4Qn2r,Brown,213440,"['7ymgfUyJFViyg1qFo4M2nH', '21T40kNQJlIW8PVHttZmp6']","['Brownman Revival', 'James Leyte']",2,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+2SyEjwBlJ2pBSCw89j22Os,Negastar,190466,03wcaVP01hepKViUcXClNm,Cathy Go,1,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+6wqzbWO5pLKaXLtINpIez4,Kesa,217333,3i2iwY4S4TxYKuxaDsni7S,Daniel Gorospe,1,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+1MXGnv9snQ5LEGAOt0zrEs,Himig Ng Panahon,234106,"['2rW9Djv618JDGrW40a8Ny3', '0LfeDQhCQVNFACYZo9rluZ', '552jNI1kUtB1FPRZFliQxc', '4VkqlQl3hGhxjchI34xp2V', '1O5apWv8xRb6YbHu7E0Tu6']","['Duncan Ramos', 'Luke Mijares', 'Loonie', 'Thyro', 'Yumi']",5,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+6ClkO2MhJ8SIF9HcZLvNbv,Minsa'y Isang Bansa,196440,2Xqthg2v6S4swstru8dliM,Gary Granada,1,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+6c9RJR4qUpL1Ojy5kPUTDW,Dulo Ng Dila,212853,"['3z0IVhtuFvt9VYUZGT98PU', '5nMichcXnYPlt0NYw4dAXO']","['Jay R', 'Deejay Poblete']",2,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+2Tgr8FxYoCpJUsPQHBKX6C,Piso,226466,3Ow3GvjKR4v8QepEOnTbHF,Joey Ayala,1,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+08bGC2z9MWH90V6mDh4zMK,3 AM,211453,2XMxHczWkSzDDFhiC3zt8k,Marié Digby,1,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+5LhwNuhYJxqcCFJWLJmHsl,Slowdancing,241386,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+2RvLkd2SFlCY7edJ5XDbQz,Takusa,170733,2uSQi2dS9WLbu4IlzTPLKr,Rocksteddy,1,68P7A2Is3ExQ8zdEfO6484,Philippine Popular Music Festival 2012: The Fourteen Finalists
+46FR8ajUm3nF1KJCCRmriD,Nights Are Forever,240506,"['3q3KaCLCZ4qaaeLC1BbZ6J', '2EmwLmcnlzIDxGfj0KvoDQ']","['RJ Jacinto', 'John Ford Coley']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+6UlHwi8e2axKCg1NV2fkiM,Dreamin',198253,"['3q3KaCLCZ4qaaeLC1BbZ6J', '2UCSf1SG6a3r2VhjZwWT7A']","['RJ Jacinto', 'John Gummoe']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+6k062GCW1WoIgkZPn67PmE,Trip To Manila/ Manila,217120,"['3q3KaCLCZ4qaaeLC1BbZ6J', '4z70i3ZzKWXDjrmY9RFCEv']","['RJ Jacinto', 'Rene Garcia']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+23wN3w58zDM955GXJ5pZlh,Lonely Teardrops,262880,"['3q3KaCLCZ4qaaeLC1BbZ6J', '3pTaNQJ7TAU4yL7KEZp5sF']","['RJ Jacinto', 'Nyoy Volante']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+776yX1RqsL7sBBErQ40wYg,Georgy Porgy,254440,"['3q3KaCLCZ4qaaeLC1BbZ6J', '5sdxXYNUkJPaTacZ5K0RSx']","['RJ Jacinto', 'Bobby Kimball']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+3iuLr2ziMNJ61BrxiA5qnf,Don't Let Go,211173,"['3q3KaCLCZ4qaaeLC1BbZ6J', '0t7vWPRBcVv4xBEHPZHSWA']","['RJ Jacinto', 'Sitti']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+65VNBiX6WbLTV6CwVpPJnc,Don't You Care,199053,"['3q3KaCLCZ4qaaeLC1BbZ6J', '2WqS3wPuoYRQ6KXfLeOP1c', '34Jo8aL5oMO58SRszJycfh']","['RJ Jacinto', 'Dennis Tufano', 'Marty Grebb']",3,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+4S7ZWMjl0imFChcsqtgsQ0,Constantly,187013,"['3q3KaCLCZ4qaaeLC1BbZ6J', '1EHAbA1GMYOfkh9ds9eNfS']","['RJ Jacinto', 'Jose Mari Chan']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+1fL3SgrkrkuPvNsTZAyz3m,Rosanna,289226,"['3q3KaCLCZ4qaaeLC1BbZ6J', '5sdxXYNUkJPaTacZ5K0RSx']","['RJ Jacinto', 'Bobby Kimball']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+2qnMDctp53oFUssj9BBfaK,One and Only,232946,"['3q3KaCLCZ4qaaeLC1BbZ6J', '7JIoxIiRqaLg42e1w27TXx']","['RJ Jacinto', 'Richard Poon']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+369b70xmaquKSeZlYRhLlt,My First Day Alone,161826,"['3q3KaCLCZ4qaaeLC1BbZ6J', '2UCSf1SG6a3r2VhjZwWT7A']","['RJ Jacinto', 'John Gummoe']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+4x3RQbF3ej2Khz57EDUnyX,Sad To Belong,185000,3q3KaCLCZ4qaaeLC1BbZ6J,RJ Jacinto,1,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+27ytcWXJL0N73pE4nrccSn,Muli,362853,"['3q3KaCLCZ4qaaeLC1BbZ6J', '0t7vWPRBcVv4xBEHPZHSWA']","['RJ Jacinto', 'Sitti']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+7tdJOhwyZU7xXBh3EMLib0,Bongga Ka Day,175346,"['3q3KaCLCZ4qaaeLC1BbZ6J', '4z70i3ZzKWXDjrmY9RFCEv']","['RJ Jacinto', 'Rene Garcia']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+6y3ESI5LgZnaLak8BqraMv,Sabi-Sabi,224120,"['3q3KaCLCZ4qaaeLC1BbZ6J', '0RgeD0haCSG2EO2azwqXAw']","['RJ Jacinto', 'Raimund Marasigan']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+5yQ9wgBPhhGCFRtOJoN3Wq,Nosi Ba Lasi,311106,"['3q3KaCLCZ4qaaeLC1BbZ6J', '24mz8QcWgmN8oGnuSY9Ftb']","['RJ Jacinto', 'Aia De Leon']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+26FRLMJKkCfejByHF8v1Ub,Afterglow,185853,"['3q3KaCLCZ4qaaeLC1BbZ6J', '1EHAbA1GMYOfkh9ds9eNfS']","['RJ Jacinto', 'Jose Mari Chan']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+4NSiwwbw0MGlC0GjY7JNbn,Sugat ng Puso,262546,"['3q3KaCLCZ4qaaeLC1BbZ6J', '2fonBGBLc7lUoikMqms5Zl']","['RJ Jacinto', 'Noel Cabangon']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+1MluYT1nQevHJBUPmv9gTE,Ligtas,235373,"['3q3KaCLCZ4qaaeLC1BbZ6J', '0RgeD0haCSG2EO2azwqXAw']","['RJ Jacinto', 'Raimund Marasigan']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+1lm5PyDEhdAnJIQoWevAAk,Hele-Hele,252746,"['3q3KaCLCZ4qaaeLC1BbZ6J', '3pTaNQJ7TAU4yL7KEZp5sF']","['RJ Jacinto', 'Nyoy Volante']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+2Sz96fAyqBDpJXtnVoD5Yo,Presyo,260013,"['3q3KaCLCZ4qaaeLC1BbZ6J', '5C8exBHLifsjZxzVErjRpn']","['RJ Jacinto', 'Ely Buendia']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+3C6njCrQIbKvXT31lJznTe,Missing You,201906,"['3q3KaCLCZ4qaaeLC1BbZ6J', '7JIoxIiRqaLg42e1w27TXx']","['RJ Jacinto', 'Richard Poon']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+2RvpGLslC6tIZNn6rbIK3M,Hey Baby,154986,"['3q3KaCLCZ4qaaeLC1BbZ6J', '2WqS3wPuoYRQ6KXfLeOP1c', '34Jo8aL5oMO58SRszJycfh']","['RJ Jacinto', 'Dennis Tufano', 'Marty Grebb']",3,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+6ttu93uRGw4jRhIw9S3W7Z,Bulldog and Yellow Jacket,269000,"['3q3KaCLCZ4qaaeLC1BbZ6J', '2GaayiIs1kcyNqRXQuzp35']","['RJ Jacinto', 'The Ventures']",2,7ybhBKk4qpQ63RjGWAN6iY,RJ Duets
+5oGtT3DN2SjfiyTq6dHyTb,Sa Isang Sulyap Mo,241453,39EHxSQAIaWusRqSI9xoyF,1:43,1,5ufJSlFMcBQweDd4gI1pWi,Certified OPM Hits
+4dyjRi82tyHU1vDZzeptgu,12:51,248280,09DdQEMQaaq0f99vqqub3V,krissy & ericka,1,5ufJSlFMcBQweDd4gI1pWi,Certified OPM Hits
+3eF7f9iPtBGnZLvy9MENpW,Hey Daydreamer,227386,6yk6AUYniuCmUkf7D63AUW,Somedaydream,1,5ufJSlFMcBQweDd4gI1pWi,Certified OPM Hits
+3jxgBY9zpuRtEVB9ygrDZT,Magasin,266226,1WUdtysXvz9qXuD6toSJqA,Chicosci,1,5ufJSlFMcBQweDd4gI1pWi,Certified OPM Hits
+7DsdSyTGR0l3GWDkGVqZeu,Da Facebook Song (Ang Ganda Ganda Mo),266480,6ZwnyHAtqKLBYwRhZePddV,Tanya Markova,1,5ufJSlFMcBQweDd4gI1pWi,Certified OPM Hits
+2MAS8sFiXaOgi9NKv6taLM,Saranghae,192520,5xJfSowQoxaxY4DCVLTfr5,Sabrina,1,5ufJSlFMcBQweDd4gI1pWi,Certified OPM Hits
+6J3LyRHU7n3Be1pp7ShWSx,Where Are You Now,235773,6DBvHzuWldgHcSLCRQznOO,The Lamars,1,5ufJSlFMcBQweDd4gI1pWi,Certified OPM Hits
+4sd00emyzA47m2hXnH3WQN,Someday,238960,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5ufJSlFMcBQweDd4gI1pWi,Certified OPM Hits
+4K8WvdzKJ7AQHODhe0f6qx,12:51 - Remix,266373,"['09DdQEMQaaq0f99vqqub3V', '0Ac90OPXjh24c06HrlV0pk']","['krissy & ericka', 'Francis Guevarra']",2,5ufJSlFMcBQweDd4gI1pWi,Certified OPM Hits
+1x0itAAuE44UcvOsqixjAV,Sa Isang Sulyap Mo - Remix,254026,"['39EHxSQAIaWusRqSI9xoyF', '0Ac90OPXjh24c06HrlV0pk']","['1:43', 'Francis Guevarra']",2,5ufJSlFMcBQweDd4gI1pWi,Certified OPM Hits
+1sv2qBDFRqZ3pVaSA0oeQA,Beautiful As You,240306,7JIoxIiRqaLg42e1w27TXx,Richard Poon,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+4cYSDN7xxBk6S0dBBe5Lyf,I Will Take You Forever,245693,"['11Jdq2gOTBhmfEYmFrZlue', '0t4whsA8hlWvd5heJSlKln']","['Kris Lawrence', 'Denise Laurel']",2,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+0uO4X2cKYoUvXuq7mYhbEd,It's Our First Time,253266,1an029RJkwZ1adPNhXSF5q,Solenn,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+70ZQiCdMESBm7bo8clekjK,Old Friend,245253,14JBboD1LaDlkSM0GsSa40,Pops Fernandez,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+2zQgnkOS4bsVl9AdmJe9fJ,Pain In My Heart,284080,0xxQZc6WKbfpoF06iBS8La,Zoo,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+2HyDz4VgxaVAv4XJ92krw6,Kung Wala Ka Na,209920,31oMMIBDMM2Z1RQO7u8irE,Side A,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+7LIePL8wliv1bKSLqJmYnr,Someday,236960,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+2c3RnDRlBVhVyiRU3JEoex,Here I Am,228000,19l4oVulvZzVoBEfaP3i0n,Jessa Zaragoza,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+4uyaSfs3JrHczwAkSAEtdb,A Thousand Miles,272960,5xJfSowQoxaxY4DCVLTfr5,Sabrina,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+3C715pDoiLAnDuDVJoAwdg,Miss You Like Crazy,228786,5s4mdbGeKp5OzUhUkSTcXj,Dianne Elise,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+6GVbFyqymY4yOvM25o535l,Don't Say You Love Me,190586,09DdQEMQaaq0f99vqqub3V,krissy & ericka,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+2ZLwC8FSV0byZipM6iL6rn,Sa Puso Ko'y Ikaw,248680,39EHxSQAIaWusRqSI9xoyF,1:43,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+40yqEEfiVHsC28Luj6ph0t,Overjoyed,231613,4Tk99lkogsaMWxsx1XUQDj,OSM2SM,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+5efuaiyqh6xIenxWINPAKH,"Ako'y Sa Yo, At Ika'y Akin Lamang",293386,3HlBJDg0vbc5WLE7ctnGGF,Tricia Garcia,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+3SRbUYhP9ERH4rLIzFwKM7,All I Wanna Be,219520,"['321cgtxMSbAT6wanIiPYiy', '7JIoxIiRqaLg42e1w27TXx']","['Lica De Guzman', 'Richard Poon']",2,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+5Ln5oAWAFr9KcWyKO0secq,Stay,191093,3vFDvFtR8VKEITzDa2ddKe,Toto Sorioso,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+43xmPlfTnpNFdtRi2GGy5X,Tulak Ng Bibig,299066,0ZEOoQA1tnEAnEbObq8YIR,Julianne,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+2LRpw0s4qpT8ohNi0ybgTg,Tila,236960,31oMMIBDMM2Z1RQO7u8irE,Side A,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+2tkAlxDT9o0i6YmTLIX5zp,If You're Not the One,261893,5s4mdbGeKp5OzUhUkSTcXj,Dianne Elise,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+0ceUFXapKvwybeMHbADj4d,Just Tell Me You Love Me,221266,11Jdq2gOTBhmfEYmFrZlue,Kris Lawrence,1,0ouSIrIY9TmouOP7zk7WNV,40 Most Requested Love Songs
+3hXc6hVv4DefGmULA6Pvfj,Goodbye Girl,224826,14JBboD1LaDlkSM0GsSa40,Pops Fernandez,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+6OL0re1NFH93qynO80agKE,Careless Whisper,277893,11Jdq2gOTBhmfEYmFrZlue,Kris Lawrence,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+5FL6X1ABHTNJ8WdNFPjUO9,My Eyes Adored,215546,"['7JIoxIiRqaLg42e1w27TXx', '0t7vWPRBcVv4xBEHPZHSWA']","['Richard Poon', 'Sitti']",2,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+4KdSAcE2NzIttmoHPx1RND,Die Just A Little,210000,31oMMIBDMM2Z1RQO7u8irE,Side A,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+6sHDKjB5K9ic73F61PJNY1,When You Tell Me That You Love Me,257733,19l4oVulvZzVoBEfaP3i0n,Jessa Zaragoza,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+4dmGHSO5QuR6IWoLTRWtTp,Need You Now,222773,5xJfSowQoxaxY4DCVLTfr5,Sabrina,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+20iw7IQb2VlOKDsHKguZ4f,Time Machine,265293,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+3lenuPiNsrXnO5jFp1r6B7,If I Let You Go,235760,5s4mdbGeKp5OzUhUkSTcXj,Dianne Elise,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+3xMH0VYx8i1t5ySO9NkglC,It Must Have Been Love,275546,3InhMd05vZg1yBMntWCQKd,Reuben Laurente,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+1S4tR718iqI0HadepOihbL,Runaway,189480,09DdQEMQaaq0f99vqqub3V,krissy & ericka,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+6SbFc33vWAuZkIxrqlRWyi,Falling Away,261893,1LKL2kKeoS9zKVOfYHEeF3,Miguel Escueta,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+4xxTUmiveSggvT05uEra98,PiNK (Pag-ibig Na Kaya?),247986,39EHxSQAIaWusRqSI9xoyF,1:43,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+2GB05TWABottFvB8xAhQsm,Tabing Ilog,201120,3HlBJDg0vbc5WLE7ctnGGF,Tricia Garcia,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+4mnetC8tsFd8Psfs80tEB6,Kung Puede Lang - Rock Version,177106,6DBvHzuWldgHcSLCRQznOO,The Lamars,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+0YdfIigoSLqscDSDmw4MAf,I'm Your Friend,229346,321cgtxMSbAT6wanIiPYiy,Lica De Guzman,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+2ArjqNDh0M56E6sUYYFBbm,Himala ay Nawala,235053,3vFDvFtR8VKEITzDa2ddKe,Toto Sorioso,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+3AwKkyQyE70bzEv0uPkWIT,My Cherie Amour,182000,0LyfQWJT6nXafLPZqxe9Of,Various Artists,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+3nDlTRi78iUI6xtMYv2G3Q,Right Here Waiting,247760,"['11Jdq2gOTBhmfEYmFrZlue', '3z0IVhtuFvt9VYUZGT98PU']","['Kris Lawrence', 'Jay R']",2,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+0fmVfzrjBPS5hHosCoIjXV,You And I,221573,7JIoxIiRqaLg42e1w27TXx,Richard Poon,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+3as0QBBnvXIxp1e5moZyMv,Grateful,370080,0ZEOoQA1tnEAnEbObq8YIR,Julianne,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+55LAKm2glXywQgNS3UXYXm,Beautiful As You,240306,7JIoxIiRqaLg42e1w27TXx,Richard Poon,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+5A87o27DwmMmnKvckpeLNO,I Will Take You Forever,245693,"['11Jdq2gOTBhmfEYmFrZlue', '0t4whsA8hlWvd5heJSlKln']","['Kris Lawrence', 'Denise Laurel']",2,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+7GpP7fofd0Lu9OyNvIbQCI,It's Our First Time,253266,1an029RJkwZ1adPNhXSF5q,Solenn,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+0eIvrqBKYyISUf7NFFqm5R,Old Friend,245253,14JBboD1LaDlkSM0GsSa40,Pops Fernandez,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+3WRUfg3sGml2xhfCG28skT,Pain In My Heart,284080,0xxQZc6WKbfpoF06iBS8La,Zoo,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+5w8EnUXd4NMR2hzzTYwKKc,Kung Wala Ka Na,209920,31oMMIBDMM2Z1RQO7u8irE,Side A,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+7Db0ms61gQNJAQcvFhn7CX,Someday,236960,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+4RdJOzphKmwdE6MDVet15Z,Here I Am,228000,19l4oVulvZzVoBEfaP3i0n,Jessa Zaragoza,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+6B82oKukFo9jELxcuWY6PY,A Thousand Miles,272960,5xJfSowQoxaxY4DCVLTfr5,Sabrina,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+0pNFfFwfANcr9Up2bV5GUy,Miss You Like Crazy,228786,5s4mdbGeKp5OzUhUkSTcXj,Dianne Elise,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+4ZSPF9CjJq8TlxEJ59bxFj,Don't Say You Love Me,190586,09DdQEMQaaq0f99vqqub3V,krissy & ericka,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+73wc9MSnorj8znSlTOVB6N,Sa Puso Ko'y Ikaw,248680,39EHxSQAIaWusRqSI9xoyF,1:43,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+3lylcb21gIrqdhJ8kxECfh,Overjoyed,231613,4Tk99lkogsaMWxsx1XUQDj,OSM2SM,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+4oA2WJBU5cT4gPxR8uKPL1,"Ako'y Sa Yo, At Ika'y Akin Lamang",293386,3HlBJDg0vbc5WLE7ctnGGF,Tricia Garcia,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+5AARem8Iv8YDHy2F7Pfk3T,All I Wanna Be,219520,"['321cgtxMSbAT6wanIiPYiy', '7JIoxIiRqaLg42e1w27TXx']","['Lica De Guzman', 'Richard Poon']",2,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+6eANIHuHaoyZtnHQ0tkUly,Stay,191093,3vFDvFtR8VKEITzDa2ddKe,Toto Sorioso,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+09QwX6L8BdP9G7w5nQa6Yg,Tulak Ng Bibig,299066,0ZEOoQA1tnEAnEbObq8YIR,Julianne,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+6eOQMY9meuhiHBbRQdgMQ0,Tila,236960,31oMMIBDMM2Z1RQO7u8irE,Side A,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+43JWUoN2FDSLgbpByms92F,If You're Not the One,261893,5s4mdbGeKp5OzUhUkSTcXj,Dianne Elise,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+60eFn4M4MeHdK1tITPgFnU,Just Tell Me You Love Me,221266,11Jdq2gOTBhmfEYmFrZlue,Kris Lawrence,1,6z1QaBXXuNVvZZO1NLTime,40 Most Requested Love Songs
+5V2OtDqu826ApzonysXXU0,Goodbye Girl,224826,14JBboD1LaDlkSM0GsSa40,Pops Fernandez,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+2M4qBKCGcP2ekYlFUM8vlJ,Careless Whisper,277893,11Jdq2gOTBhmfEYmFrZlue,Kris Lawrence,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+5rdND9eBMnX870IfVc5DdM,My Eyes Adored,215546,"['7JIoxIiRqaLg42e1w27TXx', '0t7vWPRBcVv4xBEHPZHSWA']","['Richard Poon', 'Sitti']",2,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+2U80eNJ5HjPSZRKWOPIcjr,Die Just A Little,210000,31oMMIBDMM2Z1RQO7u8irE,Side A,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+6NckrGU9VmojAchnHbryLg,When You Tell Me That You Love Me,257733,19l4oVulvZzVoBEfaP3i0n,Jessa Zaragoza,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+1Q4OxXKyO7Ywv02qE22AbJ,Need You Now,222773,5xJfSowQoxaxY4DCVLTfr5,Sabrina,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+3XjGtsO4umva7ArqHsr3Id,Time Machine,265293,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+4aW9DJdOc2rergGgNfnJ4W,If I Let You Go,235760,5s4mdbGeKp5OzUhUkSTcXj,Dianne Elise,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+73KkIeBn8wrYrttCpz78Qv,It Must Have Been Love,275546,3InhMd05vZg1yBMntWCQKd,Reuben Laurente,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+27a3gGnPsHkY6TgBurRnOE,Runaway,189480,09DdQEMQaaq0f99vqqub3V,krissy & ericka,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+6kAo7fVLq6IBYt7LUZ5u03,Falling Away,261893,1LKL2kKeoS9zKVOfYHEeF3,Miguel Escueta,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+3cHfnuo8Bx8PVOKsykFeSC,PiNK (Pag-ibig Na Kaya?),247986,39EHxSQAIaWusRqSI9xoyF,1:43,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+5dD87FM3E1O1M2csoh4a3i,Tabing Ilog,201120,3HlBJDg0vbc5WLE7ctnGGF,Tricia Garcia,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+5kkgWkt4u1eYlZkFZmD7Bt,Kung Puede Lang - Rock Version,177106,6DBvHzuWldgHcSLCRQznOO,The Lamars,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+1Uo8gXNojz00zLS0F0CwIN,I'm Your Friend,229346,321cgtxMSbAT6wanIiPYiy,Lica De Guzman,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+0uh6Ou51MP3fm1IZGKjcju,Himala ay Nawala,235053,3vFDvFtR8VKEITzDa2ddKe,Toto Sorioso,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+6fV2EuBsEjWZXCWBaNA2dQ,My Cherie Amour,182000,0LyfQWJT6nXafLPZqxe9Of,Various Artists,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+4JlY9zcmysrRW3D5diNtSY,Right Here Waiting,247760,"['11Jdq2gOTBhmfEYmFrZlue', '3z0IVhtuFvt9VYUZGT98PU']","['Kris Lawrence', 'Jay R']",2,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+3vdabEKRmsr86cwIQIXK5l,You And I,221573,7JIoxIiRqaLg42e1w27TXx,Richard Poon,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+58O7jXj2upYqYdgYzJcK6z,Grateful,370080,0ZEOoQA1tnEAnEbObq8YIR,Julianne,1,5fVgcRoE2VCcyzVoo8GeI0,40 Most Requested Love Songs
+2mNZqJ7vMc21MrFAgQtY29,Unbelievable,218333,1WUdtysXvz9qXuD6toSJqA,Chicosci,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+3AuEcJIa3NROflOjNCVBsZ,This Used To Be My Playground,259000,18B9mAtwCLjkXGMlBtH1LZ,Urbandub,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+0REYSXZ0doOXfgWCfKpSil,Fake Plastic Trees,402613,5trD8XVjLto1USvIlcw1Ak,FRANCO,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+076u5BInS1j1pb9QbPfLfV,I Don't Wanna Wait,292320,4qFxP3qN9GsnZDOkAE6x2m,December Avenue,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+5lCNz8qgp2zjlimDjCMMjE,Linger,227120,1LKL2kKeoS9zKVOfYHEeF3,Miguel Escueta,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+2AYc0ZGuuzDIj5Jn7cGMej,Twisted,261800,7vbAIeiw0afuAqTiReJItY,Typecast,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+6dZFEQXugl7VI9MZ0nYvBA,Creep,228093,6ZwnyHAtqKLBYwRhZePddV,Tanya Markova,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+0EKTJuRsXuYoCeXwLUSeYz,Power of Two,305586,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+0zYSWpoz4mYkcxPOcPSVoF,Change The World,264853,09DdQEMQaaq0f99vqqub3V,krissy & ericka,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+2kjsYmrYNiV91nHUIxPcVq,Stay,191093,3vFDvFtR8VKEITzDa2ddKe,Toto Sorioso,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+3W93V7TxIommYR0rFcV5oC,No Rain,253226,5xJfSowQoxaxY4DCVLTfr5,Sabrina,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+1LQgftA9wEP0zThu9zgUpl,Someday,249813,6DBvHzuWldgHcSLCRQznOO,The Lamars,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+2wqXPD94TFr0j3I0ClLRTt,Torn,232120,1an029RJkwZ1adPNhXSF5q,Solenn,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+0LuV62OYeVp20vOxdt7NFE,Mambo No. 5,220000,7JIoxIiRqaLg42e1w27TXx,Richard Poon,1,7GNb9klVYDVzxoZWBc34Kz,90s Music Comes Alive (International Version)
+1AZtL1W0WbeVcYyE8xmATw,Til There Was You,179133,0GnuCXvnvVtX5DShryuyp9,Aiza Seguerra,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+67XV5BjFB6jLz59BdoEgF9,Because You Loved Me,278720,2tQbSWgZLIB8MXMnsXVRro,Nina,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+0zRhtAJ9claJ8nntPn9NCP,Hihanap-hanap Kita,284120,3wNylAjJX1PiCpMKx8Lrfp,Regine Velasquez,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+0IcvZzbG6NdP5QKlwCCeSd,(They Long To Be) Close To You,184106,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+52whHTRwzQVJ7h1ssQAAf5,When I Met you,271013,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+5iIV4IRmPlsxOM81zyUuAM,Loving You,302000,1Uqu4wt0ktkVcEwli4le97,Agot Isidro,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+50XpjQYsKefSQ1v8Aupd8I,Half Crazy,259133,0jarApAsbmiCkYhz0590mE,Freestyle,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+6ynyBx3BzPdTCwJi7MD7jS,Forevermore,269706,37Aki1DpJUPf8i3vcMhU6L,Joey Albert,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+61RDTugTID9nva5r3X8pnf,Now That I Have You,266826,3foGG92dYiXIu9eMBnYTQw,Gino Padilla,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+2JRLgztRWefHpOB1GxV153,I Say A Little Prayer,247786,"['6ty99gP6NrhgCOkMF2ONpy', '14JBboD1LaDlkSM0GsSa40']","['Janno Gibbs', 'Pops Fernandez']",2,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+57zYzDltc1UxnJNViimf1Q,Got To Let You Know,248400,7zpGGtamV7jBkMIub59TRO,Mark Bautista,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+1OmA9ls4S3Kod9YDyLXBgP,True Love,183680,0GnuCXvnvVtX5DShryuyp9,Aiza Seguerra,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+0moBhhdoUJRlCIZ0o07jh2,Because Of You,276080,1wOZrAWxddHrRnONyLCjsq,First Circle,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+4q2PQX7s1c9mV0z2uVUxEY,Ikaw Lamang,251733,"['2TeEZ5rfw62Mw15I4RFjXK', '6ty99gP6NrhgCOkMF2ONpy']","['Jaya', 'Janno Gibbs']",2,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+04gJyxtuNJNntGfXVm2ib4,I'll Always Love You,228466,2tQbSWgZLIB8MXMnsXVRro,Nina,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+1ikMA746AlnHPFgtRdYE7n,Because,263653,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+0gDbwYpLWZKRUlZDmsBiJ8,Heaven Knows,275746,4fkan03zhGYM8ZTfj3hLDk,Roselle Nava,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+2zw31MGKFtK7MnsZOtLN98,Only You (There will never be another),264693,31oMMIBDMM2Z1RQO7u8irE,Side A,1,5zA7pmtUoHCf3AaWyG1fOo,I Love You More
+3Mh7xIXPfSzFGIdtzeQQn9,Til I Met You,204360,0IIttGAzd1Ngnsa5SQWsOL,Odette Quesada,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+0isywTaHRKshQihXBZYP9l,How Did You Know,221146,0GnuCXvnvVtX5DShryuyp9,Aiza Seguerra,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+6J6xQk2brHidFQg2SvvTl6,Mula Sa Puso,241800,5E5sr7RkHU6tdxk5G8zF4A,Zsa Zsa Padilla,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+2C8KJ2j7vsELYoVyj4RsOk,You,249266,3bc73Whx30ZxkTXMdnAmKz,Joanne Lorenzana,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+0CtB3Trls1hTH05Rxut0qP,Bumalik Ka Sa Akin,204720,6ty99gP6NrhgCOkMF2ONpy,Janno Gibbs,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+53FHWB5lj0Zqx3INjOcBXT,Kahit 'Di Mo Ko Mahalin,230706,1wrK14JXpS47kRzpRVikRd,Roniel Mendoza,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+3ocvog3yBMh38dGNxg9GyJ,Sana Ay Ikaw Na Nga,206426,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+0YdiKiKUsGUz6oTeQdnQA7,Chances Are,308613,31oMMIBDMM2Z1RQO7u8irE,Side A,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+5xnofhAKABDWyyym2jdmFG,You Made Me Live Again,229600,5TPgIpkudntBzKKPbeBysO,Janet Basco,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+3usKI8MXlRPryPFqMiToCx,Sam,168573,6wV9XP3Q6UzNzT1SeQZZBz,Becca Godinez,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+4enKsVzOMW9tVbSWgOaMMB,Dear Heart,238986,3I5ONm7nnP1LpvqsnA5dBG,Sharon Cuneta,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+6Opw5uNwHmDTh7Q86BYPzp,Pag-ibig Ko'y Ibang-iba,235386,4cJxia2eUxOlkRG8LC19PB,Yolly Samson,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+0PpMhH9TCrxLkxN8EzksXo,Ang Pag-ibig Kong Ito,198573,4KYUuOPDT1JxLuJbcyWtky,Leah Navarro,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+1wWhLp0S2V3wjKrCIrrknG,"Desire (Hello Joe, Goodbye)",197173,246VI4twBe5Mezg0nCDP0o,Deborah,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+1iG5NbSKcEQFx9SOJ2oEE0,I Have To Say Goodbye,233893,3wNylAjJX1PiCpMKx8Lrfp,Regine Velasquez,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+4o2MZtebOzFif0rtePCWKV,Nasaan,233520,0uRc2tM7BgfG0i4vLraD5b,Nyoy Volante with Mannos,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+5wUNRUv5BoBn41agomnBAt,Cartadia Dies,224453,77hvqYqKgIrS1SC0BhRdQx,RICO J PUNO,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+6vGk1enrP3kvAR3IKKzEIW,Refrain,201293,1EHAbA1GMYOfkh9ds9eNfS,Jose Mari Chan,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+1lTKNqDCWaT8BE6R8YKSMb,Swerte-swerte Lang,221746,6D3mfbzFNCXfabkrq3a9cD,Joel Navarro,1,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+0LE8Nk8Csk1YLPgqNHW4uJ,Umagang Kay Ganda,225533,"['7uH5aJgl8e1vjSp330W6kN', '5AquMw2DcUWwsA6GoWKZRb']","['Tillie Moreno', 'Ray-An Fuentes']",2,3ebxSivbFn0Of77GNejYdQ,I Love You Too…
+23qSgy38pskZtMdQ44zLhp,So Slow,278160,0jarApAsbmiCkYhz0590mE,Freestyle,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+5cQ2e2w88eWb0NWNnZMKt0,Power Of Two,295080,0GnuCXvnvVtX5DShryuyp9,Aiza Seguerra,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+2lumFXF5pcp5EmgCN5MssF,Moonlight Over Paris,303786,33kC1w8s5cXEi1zyJZuqSI,Paolo Santos,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+6aMBDrmjoYuQ0QDemiRd9e,Sailing,263800,31oMMIBDMM2Z1RQO7u8irE,Side A,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+2H4RXtWF4kSu8aE5Np1Z1o,I Will,163400,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+0f7e63WMJ2Sne0v6sZTyxo,Fallin',196000,3wNylAjJX1PiCpMKx8Lrfp,Regine Velasquez,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+2cGaughgTpapOPxuEqnty5,It's You,297000,"['3Zb8FUxHak00Sr4kUfzpwO', '1mIMCcvi7JTUVurOjvgp0A', '0L4AQOv66jrxAGdCBpHEX5']","['U-turn [Richard Poon', 'Terry Sambajon', 'Nikki Samodio]']",3,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+6dfTtcPMSeBosVEt6wEuiq,Last Night I Didn't Get To Sleep At All,242000,5E5sr7RkHU6tdxk5G8zF4A,Zsa Zsa Padilla,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+0a1ef2pNVnsmh1iAwocTZI,How Deep Is Your Love,223640,02mrn74eDiNBDdeZFOfVpe,Cruxada [Julie Anne Tarroja & RJ Manese],1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+1ZmPqwEIIJ1PIy4eibp2WN,Laughter In The Rain,227000,0GnuCXvnvVtX5DShryuyp9,Aiza Seguerra,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+0yp6HmAkB4ZmyRCTBah46Q,Knocks Me Off My Feet,230626,4DByewLF2zlEXkPScmqsfa,Ryan & Paolo,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+4puWVaRNDlum4ZNs8iKYwO,Beginning Today,206520,1Uqu4wt0ktkVcEwli4le97,Agot Isidro,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+1kfbRg1ljiK9IHa2foIUIp,If The Love Fits,231000,3epr0J9hOWkk57Fs08hwPf,LOUIE HEREDIA,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+4TfiOlScXzqhOQSpOfLNHz,Someone's Always Saying Goodbye,230800,46p4OWcs3kMmScf5Rh1ynv,Allona,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+0IR4T5lA2KbAGF7FALjFrv,Every Little Thing,253000,04fMFV8y37F9Torqu7G8iI,U Turn,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+47yn9nrMFU9DLJDyV2hyUe,Never Give Up,260000,3wNylAjJX1PiCpMKx8Lrfp,Regine Velasquez,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+1qNOWpXO5hIZWnfqgRwV7F,It's Too Late,254000,6LNXhFKw2ZsHz9xLWYswll,Cruxada,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+2VgpxA5XJSBQ1FoxKpzXr8,You're My You,243000,0uRc2tM7BgfG0i4vLraD5b,Nyoy Volante with Mannos,1,0ifQ9n1z9kaY2B1axL68TC,Simplified More Than Acoustic
+0nvc8ldaONW0Wt4UFVhBAi,Now That You're Gone,255973,3I5ONm7nnP1LpvqsnA5dBG,Sharon Cuneta,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+2isGlmKYtvEFn5GomNCe1e,Say That You Love Me,348653,3wNylAjJX1PiCpMKx8Lrfp,Regine Velasquez,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+5fZmaV9Ev3RVS367Wi2DF6,Can This Be Love,223506,6aiCKnIN68hohzU3ZzNq48,Sarah Geronimo,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+6iJeVqM6n0p0xnK21RlvaP,Hello,237306,1vlz5PDUCNuZJeuJoufQkN,Ogie Alcasid,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+1XlMwcq7OGSc5pjSUfJDMo,Always,259173,"['0RHiqaoRCsFLPeEuj3OQz4', '4JgkKaAhbrxzR8MdB7UdWF']","['Gary Valenciano', 'Jinky Vidal']",2,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+7HIiDaB8nUjYOFIxYPPqze,Till My Heartaches End,246133,4UEbuAbIRXr2F2S3nm4uok,Ella May Saison,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+52O9MiCMT6bX8woSw6T04G,Too Shy To Say,222400,5HlAsdRigFvxwPkNn4vSWz,Nonoy Zuniga,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+6tCgk6KgDMVd23vR95SZbD,If You Remember Me,218773,4fkan03zhGYM8ZTfj3hLDk,Roselle Nava,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+59WAVS6OCroNnVUPhmLqfo,From The Start,252680,0YaTdozvKSQ2UkOTTONmSJ,Rachelle Ann Go,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+3uEeTiGkk4yt0doWVOEGAv,A Love To Share,197040,1ZTdxfZTeztyAgKUJVLxAI,Rivermaya,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+1tvqLlEK8a7G97qv85hiFY,Always Somewhere,246773,0lyIvVIJZWM6K64it2HqWk,Bituin Escalante,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+2BGIf0qRChijdtKFusZmch,You Won't See Me Crying,281253,6uzOSeOh07b07QjYHRdF2c,Passage,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+457ZlWmpx4CkjN0Ri0z407,Love Hurts,222293,2TeEZ5rfw62Mw15I4RFjXK,Jaya,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+5z0s0msWPntpOZq6wn8jXA,You Changed My Life In A Moment,261866,5relTuuSSW001zewisaAk2,Raymond Manalo,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+4POMJMJDh9aCdhmdhsDa3J,Through The Fire,294640,"['6ty99gP6NrhgCOkMF2ONpy', '29Aqsp33ANrcidwOkNJJU6']","['Janno Gibbs', 'Lani Misalucha']",2,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+2lK5sMLWvcPqEVIlncvVfg,What Matters Most,221520,4oMk1QJuMWUWrNmchRJGWL,Rachel Alejandro,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+2az0kC3b7Knvhx5hYslY5M,Be My Lady,231773,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+7Fb8eMhX85jDYde57X4Ewo,Someone's Always Saying Goodbye,237293,46p4OWcs3kMmScf5Rh1ynv,Allona,1,0Q1x4rOgADne8zhy9YYJVv,Lovestruck Vol. 2
+1xAHZ2OVgozulTtJyFe2PS,Hanggang,241280,1E3KCJPiBlYibgXFtxEGLr,Wency Cornejo,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
+099A5LIXlgzriy6lBxZ3Bv,Hurting Inside,255960,04fMFV8y37F9Torqu7G8iI,U Turn,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
+5hrAZw0fwB4jKr5EaJXKu1,Ang Aking Awitin,278626,31oMMIBDMM2Z1RQO7u8irE,Side A,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
+720P6xRmUAXpH8AtW0Ijbm,Seasons,237533,6uzOSeOh07b07QjYHRdF2c,Passage,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
+6iaYwRn6iWhLPKZ9TCMXez,Because Of You,279906,1wOZrAWxddHrRnONyLCjsq,First Circle,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
+2CXT0Ywn4L5dhiwYKH6spV,Ambon,262880,6RV3CKY0UJIPKXyGs85Thm,True Faith,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
+6MqcqJ80fz2EefkiL6eRxJ,Strong Enough,207906,1fgAj7LPAOQYbxrLrcHIwT,Eva & John,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
+1s7HgDey9RO4xWsc3SX0mE,So Slow,277933,0jarApAsbmiCkYhz0590mE,Freestyle,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
+3RzFXRBzqhnwGxB2cGC4Cm,Konti Man Lamang,395213,6DiAVYfSzZi8h1fGuTD6LI,Jimmy Bondoc,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
+7dyWrkxQABPNfZWsYRjXJb,Oras,188626,6nlMhRdM8k0XrRTQz5UbK7,Rannie Raymundo,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
+7kmpFSQQ36xEbe9Bn4TRBg,Paano Na,306066,6q4GISzizNQnYKJ5BwUbVk,Tribe Of Levi,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
+4Tg7GHuUFUGFHICrA3AfIH,You're My You,278946,3pTaNQJ7TAU4yL7KEZp5sF,Nyoy Volante,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
+5PDVFDpt1PFdIn3QcuMarl,Agent Orange,273706,50ifAXDdkDGG0RTON2If8K,Slapshock,1,6OXPvgd40Z20NO3tyBjywM,Acoustic Lokal
