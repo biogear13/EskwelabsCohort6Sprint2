@@ -9,6 +9,8 @@ import streamlit as st
 from PIL import Image
 from streamlit_folium import folium_static
 from streamlit import caching
+#import xgboost
+#import sklearn
 
 def introduction():
     image = Image.open('logo/nyoy_pic.PNG').convert('RGB')
@@ -97,9 +99,44 @@ def eda():
     st.write('')
     st.header('Exploratory Data Analysis')
     st.write('-----------------------------------------------------------------------') 
-    st.write('<b>Popular Genres in the Philippines</b>', unsafe_allow_html=True)
-    
-    
+    st.subheader('Popular Genres in the Philippines')
+    st.write('- Acoustic, Rock, and R&B are the top three performing genres in the Philippines across all years.')
+    st.write('- Classical music is not as popular in the Philippines.')
+    image = Image.open('graphs/Monthly Streams per Genre.PNG').convert('RGB')
+    st.image(image, caption='', width=400, height=200)
+    st.subheader('Distribution of audio features across different genres for tracks belonging in the Top 200 Daily PH Chart.')
+    st.write('Loudness, Energy, and Danceability serve as the main distinguishing audio features among the selected genres.')   
+    option = st.selectbox('Select audio feature',('acousticness', 'danceability', 'energy','instrumentalness','liveness','loudness','speechiness','valence','tempo'))
+    if option == 'acousticness':
+        image = Image.open('graphs/acousticness.PNG').convert('RGB')
+        st.image(image, caption='', width=400, height=200)     
+    if option == 'danceability':
+        image = Image.open('graphs/danceability.PNG').convert('RGB')
+        st.image(image, caption='', width=400, height=200) 
+    if option == 'energy':
+        image = Image.open('graphs/energy.PNG').convert('RGB')
+        st.image(image, caption='', width=400, height=200) 
+    if option == 'instrumentalness':
+        image = Image.open('graphs/instrumentalness.PNG').convert('RGB')
+        st.image(image, caption='', width=400, height=200) 
+    if option == 'liveness':
+        image = Image.open('graphs/liveness.PNG').convert('RGB')
+        st.image(image, caption='', width=400, height=200) 
+    if option == 'loudness':
+        image = Image.open('graphs/loudness.PNG').convert('RGB')
+        st.image(image, caption='', width=400, height=200) 
+    if option == 'popularity':
+        image = Image.open('graphs/popularity.PNG').convert('RGB')
+        st.image(image, caption='', width=400, height=200) 
+    if option == 'speechiness':
+        image = Image.open('graphs/speechiness.PNG').convert('RGB')
+        st.image(image, caption='', width=400, height=200) 
+    if option == 'tempo':
+        image = Image.open('graphs/tempo.PNG').convert('RGB')
+        st.image(image, caption='', width=400, height=200) 
+    if option == 'valence':
+        image = Image.open('graphs/valence.PNG').convert('RGB')
+        st.image(image, caption='', width=400, height=200) 
 
 def genre_classification():
     caching.clear_cache()
@@ -114,23 +151,37 @@ def genre_classification():
     st.write('- Danceability, Energy, Key, Loudness, Mode, Speechiness, Acousticness, Instrumentalness, Valence, Tempo')
     st.subheader('Selected Model')
     st.write('- XGBoost')
-    st.write('- Accuracy: 77.93%')
+    st.write('- Accuracy : 77.93%')
     st.subheader('Results of other models')
     option = st.selectbox('Select Model',('kNN','SVM Linear','SVM Polynomial','SVM RBF','Decision Trees','Random Forest','XGBoost'))
     st.write('Here are the results obtained from the', option, 'model.')
     if option == 'kNN':
+        #pickle = pd.read_pickle('knn.model.pickl')
+        #st.write(pickle)
         st.write('')
     elif option == 'SVM Linear':
+        #pickle = pd.read_pickle('svm (linear kernel).model.pickl')
+        #st.write(pickle)
         st.write('')
     elif option == 'SVM Polynomial':
+        #pickle = pd.read_pickle('svm (polynomial kernel).model.pickl')
+        #st.write(pickle)
         st.write('')
     elif option == 'SVM RBF':
+        #pickle = pd.read_pickle('svm (rbf kernel).model.pickl')
+        #st.write(pickle)
         st.write('')
     elif option == 'Decision Trees':
+        #pickle = pd.read_pickle('decision tree.model.pickl')
+        #st.write(pickle)
         st.write('')
     elif option == 'Random Forest':
+        #pickle = pd.read_pickle('random forest.model.pickl')
+        #st.write(pickle)
         st.write('')
     elif option == 'XGBoost':
+        #pickle = pd.read_pickle('xgboost.model.pickl')
+        #st.write(pickle)
         st.write('')
    
 
