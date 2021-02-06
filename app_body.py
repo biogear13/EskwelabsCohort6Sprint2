@@ -105,7 +105,7 @@ def eda():
     image = Image.open('graphs/Monthly Streams per Genre.PNG').convert('RGB')
     st.image(image, caption='', width=400, height=200)
     st.subheader('Distribution of audio features across different genres for tracks belonging in the Top 200 Daily PH Chart.')
-    st.write('Loudness, Energy, and Danceability serve as the main distinguishing audio features among the selected genres.')   
+    st.write('Loudness, Energy, and Danceability appear to be the main distinguishing audio features among the selected genres.')   
     option = st.selectbox('Select audio feature',('acousticness', 'danceability', 'energy','instrumentalness','liveness','loudness','speechiness','valence','tempo'))
     if option == 'acousticness':
         image = Image.open('graphs/acousticness.PNG').convert('RGB')
@@ -153,36 +153,30 @@ def genre_classification():
     st.write('- XGBoost')
     st.write('- Accuracy : 77.93%')
     st.subheader('Results of other models')
+
     option = st.selectbox('Select Model',('kNN','SVM Linear','SVM Polynomial','SVM RBF','Decision Trees','Random Forest','XGBoost'))
     st.write('Here are the results obtained from the', option, 'model.')
     if option == 'kNN':
-        #pickle = pd.read_pickle('knn.model.pickl')
-        #st.write(pickle)
-        st.write('')
+        image = Image.open('graphs/knn.PNG').convert('RGB')
+        st.image(image, caption='', width=400, height=200) 
     elif option == 'SVM Linear':
-        #pickle = pd.read_pickle('svm (linear kernel).model.pickl')
-        #st.write(pickle)
-        st.write('')
+        image = Image.open('graphs/svm linear.PNG').convert('RGB')
+        st.image(image, caption='', width=500, height=300) 
     elif option == 'SVM Polynomial':
-        #pickle = pd.read_pickle('svm (polynomial kernel).model.pickl')
-        #st.write(pickle)
-        st.write('')
+        image = Image.open('graphs/svm polynomial.PNG').convert('RGB')
+        st.image(image, caption='', width=550, height=300) 
     elif option == 'SVM RBF':
-        #pickle = pd.read_pickle('svm (rbf kernel).model.pickl')
-        #st.write(pickle)
-        st.write('')
+        image = Image.open('graphs/svm rbf.PNG').convert('RGB')
+        st.image(image, caption='', width=500, height=300) 
     elif option == 'Decision Trees':
-        #pickle = pd.read_pickle('decision tree.model.pickl')
-        #st.write(pickle)
-        st.write('')
+        image = Image.open('graphs/decision tree.PNG').convert('RGB')
+        st.image(image, caption='', width=500, height=300) 
     elif option == 'Random Forest':
-        #pickle = pd.read_pickle('random forest.model.pickl')
-        #st.write(pickle)
-        st.write('')
+        image = Image.open('graphs/random forest.PNG').convert('RGB')
+        st.image(image, caption='', width=550, height=300) 
     elif option == 'XGBoost':
-        #pickle = pd.read_pickle('xgboost.model.pickl')
-        #st.write(pickle)
-        st.write('')
+        image = Image.open('graphs/xgboost.PNG').convert('RGB')
+        st.image(image, caption='', width=400, height=200) 
    
 
 def recommenderengine():
@@ -194,8 +188,8 @@ def recommenderengine():
     st.subheader("Genre Classification of Nyoy's songs")
     
     nyoygenre = {
-                      'Genre': ['Acoustic','Rock','R&B'],
-                     'Number of Songs': ['','','']
+                      'Genre': ['Acoustic','Rock','R&B','Classical'],
+                     'Number of Songs': ['55','18','6','5']
                        }
     st.table(nyoygenre)
     st.subheader('Top artists for Nyoy to collaborate with.')
